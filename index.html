@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ויקידס — גרף ידע</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* PASSWORD GATE */
+#password-gate {
+  position: fixed;
+  inset: 0;
+  background: #0f1117;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gate-box {
+  background: #18181b;
+  border: 1px solid #3f3f46;
+  border-radius: 16px;
+  padding: 40px 48px;
+  width: 360px;
+  max-width: 95vw;
+  text-align: center;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.7);
+}
+.gate-logo {
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 16px;
+}
+.gate-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #a78bfa;
+  margin-bottom: 6px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.gate-sub {
+  font-size: 0.78rem;
+  color: #52525b;
+  margin-bottom: 28px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.gate-input {
+  width: 100%;
+  padding: 12px 16px;
+  background: #27272a;
+  border: 1px solid #3f3f46;
+  border-radius: 10px;
+  color: #e4e4e7;
+  font-size: 1rem;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+  letter-spacing: 0.1em;
+  outline: none;
+  transition: border-color 0.2s;
+  margin-bottom: 14px;
+}
+.gate-input:focus { border-color: #7c3aed; }
+.gate-input.error { border-color: #ef4444; animation: shake 0.3s; }
+@keyframes shake {
+  0%,100% { transform: translateX(0); }
+  25% { transform: translateX(-8px); }
+  75% { transform: translateX(8px); }
+}
+.gate-btn {
+  width: 100%;
+  padding: 12px;
+  background: #7c3aed;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.gate-btn:hover { background: #6d28d9; }
+.gate-error {
+  font-size: 0.78rem;
+  color: #ef4444;
+  margin-top: 10px;
+  min-height: 18px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* MAIN APP (hidden until unlocked) */
+#app { display: none; height: 100vh; flex-direction: column; overflow: hidden; }
+#app.unlocked { display: flex; }
+
+body {
+  background: #0f1117;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* TOP BAR */
+.topbar {
+  height: 52px;
+  min-height: 52px;
+  background: #18181b;
+  border-bottom: 1px solid #27272a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 100;
+}
+
+.topbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.topbar-logo .logo-icon {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+.topbar-logo .logo-text {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #a78bfa;
+  letter-spacing: 0.02em;
+}
+.topbar-logo .logo-sub {
+  font-size: 0.68rem;
+  color: #52525b;
+  margin-top: 1px;
+}
+
+.topbar-center {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.lang-switcher {
+  display: flex;
+  background: #27272a;
+  border-radius: 10px;
+  padding: 4px;
+  gap: 4px;
+  border: 1px solid #3f3f46;
+}
+
+.lang-btn {
+  padding: 6px 20px;
+  border-radius: 7px;
+  border: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: transparent;
+  color: #52525b;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.lang-btn .lang-flag { font-size: 1.1rem; }
+.lang-btn:hover { color: #a1a1aa; background: #3f3f46; }
+.lang-btn.active { background: #7c3aed; color: #fff; box-shadow: 0 2px 8px #7c3aed55; }
+
+.info-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid #3f3f46;
+  background: #27272a;
+  color: #a1a1aa;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.18s;
+  flex-shrink: 0;
+}
+.info-btn:hover { background: #3f3f46; color: #e4e4e7; border-color: #a78bfa; }
+
+.topbar-info {
+  font-size: 0.7rem;
+  color: #3f3f46;
+}
+
+.frames-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+iframe.hidden {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(30px);
+}
+iframe#frame-he.hidden {
+  transform: translateX(-30px);
+}
+
+.switch-overlay {
+  position: absolute;
+  inset: 0;
+  background: #0f1117;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 14px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+.switch-overlay.visible { opacity: 1; pointer-events: all; }
+.switch-overlay .sw-spinner {
+  width: 36px; height: 36px;
+  border: 3px solid #27272a;
+  border-top-color: #a78bfa;
+  border-radius: 50%;
+  animation: spin 0.75s linear infinite;
+}
+.switch-overlay .sw-text { color: #52525b; font-size: 0.82rem; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.dialog-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+.dialog-backdrop.visible { opacity: 1; pointer-events: all; }
+
+.help-dialog {
+  background: #18181b;
+  border: 1px solid #3f3f46;
+  border-radius: 14px;
+  width: 560px;
+  max-width: 95vw;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.7);
+  transform: scale(0.95) translateY(10px);
+  transition: transform 0.22s ease, opacity 0.22s ease;
+}
+.dialog-backdrop.visible .help-dialog {
+  transform: scale(1) translateY(0);
+}
+
+.dialog-header {
+  padding: 16px 20px 14px;
+  border-bottom: 1px solid #27272a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+.dialog-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #a78bfa;
+}
+.dialog-lang-toggle {
+  display: flex;
+  background: #27272a;
+  border-radius: 7px;
+  padding: 3px;
+  gap: 3px;
+  border: 1px solid #3f3f46;
+}
+.dlang-btn {
+  padding: 4px 13px;
+  border-radius: 5px;
+  border: none;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: transparent;
+  color: #52525b;
+  transition: all 0.15s;
+}
+.dlang-btn.active { background: #7c3aed; color: #fff; }
+.dialog-close {
+  width: 28px; height: 28px;
+  border-radius: 7px;
+  border: 1px solid #3f3f46;
+  background: #27272a;
+  color: #a1a1aa;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.15s;
+}
+.dialog-close:hover { background: #3f3f46; color: #e4e4e7; }
+
+.dialog-body {
+  overflow-y: auto;
+  padding: 18px 22px 22px;
+  flex: 1;
+}
+.dialog-body::-webkit-scrollbar { width: 4px; }
+.dialog-body::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 2px; }
+
+.help-panel { display: none; }
+.help-panel.active { display: block; }
+
+.help-panel h2 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #52525b;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 12px;
+}
+
+.feature-list { display: flex; flex-direction: column; gap: 10px; }
+
+.feature-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 10px 13px;
+  background: #1c1c20;
+  border: 1px solid #27272a;
+  border-radius: 9px;
+}
+.feature-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.feature-text .feature-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #e4e4e7;
+  margin-bottom: 3px;
+}
+.feature-text .feature-desc {
+  font-size: 0.73rem;
+  color: #71717a;
+  line-height: 1.55;
+}
+
+.help-panel[dir="rtl"] .feature-item { flex-direction: row-reverse; }
+.help-panel[dir="rtl"] .feature-text { text-align: right; }
+.help-panel[dir="rtl"] h2 { text-align: right; }
+</style>
+</head>
+<body>
+
+<!-- PASSWORD GATE -->
+<div id="password-gate">
+  <div class="gate-box">
+    <img class="gate-logo" src="favicon.png" alt="Wikids">
+    <div class="gate-title">Wikids — Knowledge Graph</div>
+    <div class="gate-sub">Enter password to access</div>
+    <input class="gate-input" type="password" id="gate-input" placeholder="Password" onkeydown="if(event.key==='Enter')checkPassword()">
+    <button class="gate-btn" onclick="checkPassword()">Enter</button>
+    <div class="gate-error" id="gate-error"></div>
+  </div>
+</div>
+
+<!-- MAIN APP -->
+<div id="app">
+  <div class="topbar">
+    <div class="topbar-logo">
+      <img class="logo-icon" src="favicon.png" alt="Wikids">
+      <div>
+        <div class="logo-text">Wikids — Knowledge Graph</div>
+        <div class="logo-sub">192 terms · 576 connections · 8 categories</div>
+      </div>
+    </div>
+
+    <div class="topbar-center">
+      <div class="lang-switcher">
+        <button class="lang-btn active" id="btn-en" onclick="switchTo('en')">
+          <span class="lang-flag">🇬🇧</span> English
+        </button>
+        <button class="lang-btn" id="btn-he" onclick="switchTo('he')">
+          <span class="lang-flag">🇮🇱</span> עברית
+        </button>
+      </div>
+      <button class="info-btn" onclick="openHelp()" title="How to use">ℹ</button>
+    </div>
+
+    <div class="topbar-info">open in any browser · no server needed</div>
+  </div>
+
+  <div class="frames-container">
+    <iframe id="frame-en" src="knowledge_graph.html" title="English Graph"></iframe>
+    <iframe id="frame-he" src="knowledge_graph_he.html" title="Hebrew Graph" class="hidden"></iframe>
+    <div class="switch-overlay" id="switchOverlay">
+      <div class="sw-spinner"></div>
+      <div class="sw-text" id="switchText">טוען...</div>
+    </div>
+  </div>
+</div>
+
+<!-- HELP DIALOG -->
+<div class="dialog-backdrop" id="helpBackdrop" onclick="closeHelpOnBackdrop(event)">
+  <div class="help-dialog">
+    <div class="dialog-header">
+      <div class="dialog-title" id="dialogTitle">How to use the graph</div>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div class="dialog-lang-toggle">
+          <button class="dlang-btn active" id="dlang-en" onclick="switchHelpLang('en')">EN</button>
+          <button class="dlang-btn" id="dlang-he" onclick="switchHelpLang('he')">עב</button>
+        </div>
+        <button class="dialog-close" onclick="closeHelp()">✕</button>
+      </div>
+    </div>
+    <div class="dialog-body">
+      <div class="help-panel active" id="help-en">
+        <h2>Features &amp; Controls</h2>
+        <div class="feature-list">
+          <div class="feature-item"><div class="feature-icon">🔍</div><div class="feature-text"><div class="feature-title">Search</div><div class="feature-desc">Type any word in the search box — matching nodes stay visible, others dim. An exact match auto-selects and centers the node.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🖱️</div><div class="feature-text"><div class="feature-title">Click a node</div><div class="feature-desc">Select any node to see its description, category, and connections. Use the <strong>→ Points to</strong> and <strong>← Points here</strong> tabs to explore outgoing and incoming links separately.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">↔️</div><div class="feature-text"><div class="feature-title">Directed edges</div><div class="feature-desc">Arrows show the direction of each relationship. When two words point to each other, the edges curve apart so both are visible.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🗺️</div><div class="feature-text"><div class="feature-title">Path Finder</div><div class="feature-desc">Choose a From and To word — the graph finds the shortest directed path between them.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🎨</div><div class="feature-text"><div class="feature-title">Category filters</div><div class="feature-desc">Click a category button to show or hide all its nodes and edges. Each category has its own color.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">📊</div><div class="feature-text"><div class="feature-title">Statistics panel</div><div class="feature-desc">Shows a bar chart of all categories. Click any category row to drill down and see all its words.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">📜</div><div class="feature-text"><div class="feature-title">Navigation history</div><div class="feature-desc">A breadcrumb trail tracks every node you visit. Use ← → to go back and forward.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🔎</div><div class="feature-text"><div class="feature-title">Zoom &amp; minimap</div><div class="feature-desc">Use + / − buttons or scroll to zoom. Toggle the minimap (▦) for a bird's-eye overview.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🇬🇧 🇮🇱</div><div class="feature-text"><div class="feature-title">Switch language</div><div class="feature-desc">Use the English / עברית toggle at the top to switch between the two graph versions.</div></div></div>
+        </div>
+      </div>
+      <div class="help-panel" id="help-he" dir="rtl">
+        <h2>תכונות ואיך להשתמש</h2>
+        <div class="feature-list">
+          <div class="feature-item"><div class="feature-icon">🔍</div><div class="feature-text"><div class="feature-title">חיפוש</div><div class="feature-desc">הקלד מילה בתיבת החיפוש — צמתים תואמים נשארים גלויים, האחרים מתעמעמים.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🖱️</div><div class="feature-text"><div class="feature-title">לחיצה על צומת</div><div class="feature-desc">לחץ על כל מילה לראות את ההגדרה, הקטגוריה והקשרים שלה.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">↔️</div><div class="feature-text"><div class="feature-title">קשרים מכוונים</div><div class="feature-desc">חצים מראים את כיוון כל קשר.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🗺️</div><div class="feature-text"><div class="feature-title">מוצא מסלול</div><div class="feature-desc">בחר מילת מוצא ויעד — הגרף מחפש את המסלול הקצר ביותר ביניהן.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🎨</div><div class="feature-text"><div class="feature-title">פילטר קטגוריות</div><div class="feature-desc">לחץ על כפתור קטגוריה כדי להציג או להסתיר את כל המילים שלה.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">📊</div><div class="feature-text"><div class="feature-title">לוח סטטיסטיקות</div><div class="feature-desc">מציג גרף עמודות לפי קטגוריות.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">📜</div><div class="feature-text"><div class="feature-title">היסטוריית ניווט</div><div class="feature-desc">מעקב אחר כל הצמתים שביקרת בהם.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🔎</div><div class="feature-text"><div class="feature-title">זום ומפה מוקטנת</div><div class="feature-desc">השתמש בכפתורי + / − או גלגל העכבר לזום.</div></div></div>
+          <div class="feature-item"><div class="feature-icon">🇬🇧 🇮🇱</div><div class="feature-text"><div class="feature-title">החלפת שפה</div><div class="feature-desc">השתמש בכפתורי English / עברית בראש המסך.</div></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// PASSWORD GATE
+function checkPassword() {
+  const input = document.getElementById('gate-input');
+  const error = document.getElementById('gate-error');
+  if (input.value === 'louei2026') {
+    document.getElementById('password-gate').style.display = 'none';
+    document.getElementById('app').classList.add('unlocked');
+  } else {
+    error.textContent = 'Incorrect password. Try again.';
+    input.classList.add('error');
+    input.value = '';
+    setTimeout(() => input.classList.remove('error'), 400);
+    setTimeout(() => { error.textContent = ''; }, 3000);
+  }
+}
+
+// MAIN APP
+let current = 'en';
+const loaded = { en: true, he: false };
+let helpLang = 'en';
+
+document.getElementById('frame-he').addEventListener('load', () => { loaded.he = true; });
+
+function switchTo(lang) {
+  if (lang === current) return;
+  const overlay = document.getElementById('switchOverlay');
+  const switchText = document.getElementById('switchText');
+  if (!loaded[lang]) {
+    overlay.classList.add('visible');
+    switchText.textContent = lang === 'he' ? 'טוען גרף עברית...' : 'Loading English graph...';
+    const frameEl = document.getElementById('frame-' + lang);
+    frameEl.onload = () => { loaded[lang] = true; doSwitch(lang); };
+  } else {
+    doSwitch(lang);
+  }
+}
+
+function doSwitch(lang) {
+  document.getElementById('frame-' + current).classList.add('hidden');
+  document.getElementById('frame-' + lang).classList.remove('hidden');
+  document.getElementById('btn-' + current).classList.remove('active');
+  document.getElementById('btn-' + lang).classList.add('active');
+  current = lang;
+  setTimeout(() => document.getElementById('switchOverlay').classList.remove('visible'), 200);
+}
+
+function openHelp() {
+  switchHelpLang(current);
+  document.getElementById('helpBackdrop').classList.add('visible');
+}
+
+function closeHelp() {
+  document.getElementById('helpBackdrop').classList.remove('visible');
+}
+
+function closeHelpOnBackdrop(e) {
+  if (e.target === document.getElementById('helpBackdrop')) closeHelp();
+}
+
+function switchHelpLang(lang) {
+  helpLang = lang;
+  document.getElementById('help-en').classList.toggle('active', lang === 'en');
+  document.getElementById('help-he').classList.toggle('active', lang === 'he');
+  document.getElementById('dlang-en').classList.toggle('active', lang === 'en');
+  document.getElementById('dlang-he').classList.toggle('active', lang === 'he');
+  document.getElementById('dialogTitle').textContent = lang === 'he' ? 'איך משתמשים בגרף' : 'How to use the graph';
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeHelp();
+});
+</script>
+</body>
+</html>

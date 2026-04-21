@@ -1,0 +1,4038 @@
+{
+  "nodes": [
+    {
+      "id": "Cat",
+      "display_name": "Cat",
+      "category": "animals",
+      "text": "A cat is a small furry animal that many people keep as pets. It likes to sleep most of the day and can jump very high. When a cat falls, it usually lands on its feet. Cats run away from dogs and try to catch mice, birds, and insects. Cats are very clean, but instead of taking a bath, they lick themselves. Cats can see in the dark. They can also hear very quiet whispers."
+    },
+    {
+      "id": "Cheetah",
+      "display_name": "Cheetah",
+      "category": "animals",
+      "text": "The cheetah is the fastest animal in the world. It can run even faster than a car. The cheetah is a member of the cat family, just like lions and tigers. Cheetahs live in Africa and Asia and have many black spots on their back. Cheetahs hunt many animals—gazelles, antelopes, and sometimes even zebras. Cheetahs can’t chase animals for a long time, because they become tired very quickly. Cheetahs have powerful eyes—they can see things from very far away."
+    },
+    {
+      "id": "Elephant",
+      "display_name": "Elephant",
+      "category": "animals",
+      "text": "The elephant is the biggest animal that lives on land. Elephants live in Africa and Asia, in forests or in open areas. Elephants are very heavy and have large floppy ears. They are very smart and gentle animals. Elephants have a long trunk. They use it to smell, grab things, take a shower and drink, and sometimes even to pat and hug! They also use it like a trumpet to make loud noises. Many elephants have long and curvy front teeth, called tusks."
+    },
+    {
+      "id": "Frog",
+      "display_name": "Frog",
+      "category": "animals",
+      "text": "A frog is a small animal that lives near swamps and lakes. A frog is an amphibian. This means that it can live in water and on land. Frogs come in many different colors. They have a very long and sticky tongue in the front of their mouths. Frogs use their tongue to catch mosquitos and other insects. Frogs have very special eyes that can look in many different directions. A frog never closes its eyes, even when it is asleep."
+    },
+    {
+      "id": "Koala",
+      "display_name": "Koala",
+      "category": "animals",
+      "text": "The koala is a small and very cute brownish-grey animal that lives only in Australia. Many people travel to Australia just so they can see it. Koalas eat leaves only from a tree called eucalyptus, which they climb using their sharp claws. They also sleep in eucalyptus trees. Koalas are very lazy. They sleep most of the day and don’t move much. They also prefer to live alone, without friends. Baby koalas grow in their mother’s pouch, just like kangaroos."
+    },
+    {
+      "id": "Komodo Dragon",
+      "display_name": "Komodo Dragon",
+      "category": "animals",
+      "text": "The Komodo dragon is the biggest lizard in the world. It is named after the first place where it was found, the island Komodo in Indonesia. It is big, green, and heavy, with frightening eyes and a powerful tail. Komodo dragons run short distances very fast, and that’s how they hunt large animals like wild boars and buffalos. They also have a poisonous bite, which is very dangerous. The female Komodo dragon lays eggs and buries them in the ground."
+    },
+    {
+      "id": "Whale",
+      "display_name": "Whale",
+      "category": "animals",
+      "text": "A whale is a huge animal that lives in the sea. Even though it lives in the sea, it’s not a fish, but a mammal. It doesn’t breathe under water, but has a big blowhole on the top of its head, which it uses to breath and blow out air and water. Whales live in groups, have friends, and take care of their children together. Whales are very smart and love to sing. Their loud sound can be heard from very far away."
+    },
+    {
+      "id": "Wolf",
+      "display_name": "Wolf",
+      "category": "animals",
+      "text": "The wolf is a beautiful wild animal that belongs to the dog family and lives in many places in the world. Wolves can run very fast and have a great sense of smell that helps them hunt other animals. Wolves communicate by howling, which can be heard from far away. Wolves live in groups called packs, which include a family of two parents, which are the leaders, their children, and sometimes other wolves. They wander around together, raise their children, and hunt."
+    },
+    {
+      "id": "Octopus",
+      "display_name": "Octopus",
+      "category": "animals",
+      "text": "The octopus is an animal with eight arms and a beak that lives in the ocean. The octopus’ body is soft and flexible, because it doesn’t have any bones. That’s why octopuses can squeeze into very narrow places. Octopuses are smart and have excellent memory. They have many ways to protect themselves: some kinds of octopuses can change their color, some shoot a cloud of dark ink that blocks them from view, and some can even make themselves look like other animals!"
+    },
+    {
+      "id": "Platypus",
+      "display_name": "Platypus",
+      "category": "animals",
+      "text": "The platypus is a very unusual animal that looks like a combination of a duck and a beaver. It has flat feet and a big beak, and lives only in Australia. The platypus is one of only two kinds of mammals that lay eggs—the other kind is the echidna. The female platypus digs small tunnels in the mud, where it takes care of its babies after they hatch. Male platypuses have poison in a spur located in their feet."
+    },
+    {
+      "id": "Newt",
+      "display_name": "Newt",
+      "category": "animals",
+      "text": "A newt is a small animal that looks like a lizard with a long tail. The newt is an amphibian, which means that it can live both in water and on land. A baby newt is called a tadpole. It looks like a fish and can only live in water. But after a while, its legs and lungs grow and now the newt can live on land. Many newts have poison on their skin. Newts can grow back new body parts if they’re cut off!"
+    },
+    {
+      "id": "Porcupinefish",
+      "display_name": "Porcupinefish",
+      "category": "animals",
+      "text": "The porcupinefish is a strange fish that has a special way of defending itself. It swallows a lot of water very fast and becomes as big and round as a basketball with spikes. In this way, if some animal tries to eat it, the animal has a lot of trouble holding the porcupinefish in its mouth. Porcupinefish also have a lot of dangerous poison in them, which can hurt anyone. The only animal that can’t get hurt from it is the shark."
+    },
+    {
+      "id": "Scorpion",
+      "display_name": "Scorpion",
+      "category": "animals",
+      "text": "A scorpion is a small animal with a long pointy tail and big claws. It uses the tip of its tail to sting other animals when it is in danger. Scorpions have eight legs and most scorpions live in the desert. Some kinds of scorpions live in forests and in mountains. They eat insects and have a hard shell that protects them. They sleep in the day underneath rocks or beneath the ground and are awake at night."
+    },
+    {
+      "id": "Iguana",
+      "display_name": "Iguana",
+      "category": "animals",
+      "text": "The iguana is a large greenish lizard that comes from Central and South America. They have a long tail, sharp claws and teeth, and a row of spines on their back. Iguanas like to live on trees next to water and eat fruit and leaves. They are also very tough: if they fall from somewhere as high as a 5 story building, they’ll usually land safely! And if their tail falls off – they can grow a new one! Many people keep iguanas as pets."
+    },
+    {
+      "id": "Zebra",
+      "display_name": "Zebra",
+      "category": "animals",
+      "text": "The zebra is a famous animal that looks like a horse with pajamas, because it has black and white stripes all over its body. Every zebra has a different arrangement of stripes. Nobody really knows why zebras have stripes. Some say that they use the stripes for disguise, to confuse the enemy, or maybe even to keep flies away! Zebras live in Africa. They eat grass and live in herds. When another animal chases them, zebras run away in zigzags."
+    },
+    {
+      "id": "Lion",
+      "display_name": "Lion",
+      "category": "animals",
+      "text": "The lion is a wild animal that belongs to the cat family and lives in Africa and in Asia. It has a beautiful mane around its head, and many people call it the king of the animals. Lions roar very loudly. They live in groups and hunt other animals for food. Male lions are very lazy. They sleep most of the day, and prefer that the lioness, the female lion, does the hunting! She’s a much better hunter anyway!"
+    },
+    {
+      "id": "Grasshopper",
+      "display_name": "Grasshopper",
+      "category": "animals",
+      "text": "The grasshopper is a large insect that comes in many different colors. Grasshoppers have big eyes, four wings, and six legs. The Grasshopper’s back legs are very long, and they use them for hopping and jumping. They can leap 20 times their body length!  Grasshoppers eat plants. Sometimes they cause damage to crops that farmers grow. Grasshoppers make sounds by rubbing their back legs against their front wings. And believe it or not, their ears are on the sides of their belly!"
+    },
+    {
+      "id": "Jellyfish",
+      "display_name": "Jellyfish",
+      "category": "animals",
+      "text": "The jellyfish is a strange sea animal that looks like an umbrella or a mushroom. Even though we call it a “jellyfish”, it’s actually not a fish at all! Jellyfish have a soft body and tentacles, which are long thin parts that look like strings. Jellyfish don’t have a face, a brain, or even a heart! They don’t have any bones either. Some jellyfish are see-through, and others have bright colors. Most jellyfish have poison and their sting really burns."
+    },
+    {
+      "id": "Giraffe",
+      "display_name": "Giraffe",
+      "category": "animals",
+      "text": "The Giraffe is the tallest animal in the world. It has a very long neck, long legs, a long tongue, small horns, and brown spots all over its body. Giraffes live in Africa and eat leaves that grow on high trees, which no other animal can reach. Giraffes almost never get off their feet – they even sleep standing up! When giraffes want to drink, they have to lean their legs forward or bend their knees so they can reach the water."
+    },
+    {
+      "id": "Walrus",
+      "display_name": "Walrus",
+      "category": "animals",
+      "text": "A walrus is a big and heavy animal that lives in the icy oceans around the North Pole. It spends most of its time inside the freezing water and on ice. Although clumsy on land, it is a great swimmer and diver. Walruses are brown and have many whiskers and two very long tusks. They use their tusks to defend themselves and to pull themselves out of the water. Walruses live in large groups and take care of their children."
+    },
+    {
+      "id": "Hippopotamus",
+      "display_name": "Hippopotamus",
+      "category": "animals",
+      "text": "The hippopotamus, or hippo, is a big and heavy animal with a huge mouth and short legs. It lives in Africa and spends most of its time in the water. At sunset, it goes out to eat grass. The hippo’s ears, eyes and nostrils are on the top of its head. It can stick them out of the water, leaving the rest of the head under water. Hippos can sleep under water. When they need air, they stick their nostrils out without even waking up!"
+    },
+    {
+      "id": "Dolphin",
+      "display_name": "Dolphin",
+      "category": "animals",
+      "text": "The dolphin is a large animal that lives in water. Even though it lives in water, it’s a mammal – just like the whale. The dolphin is one of the smartest animals in the world. Dolphins are also very friendly. They love to jump over the water and play with each other, with other animals, and even with people. Dolphins live in groups and eat fish and other small animals. To communicate with each other they make special clicks and whistles."
+    },
+    {
+      "id": "Bat",
+      "display_name": "Bat",
+      "category": "animals",
+      "text": "The bat is a small animal with wings that looks like a flying mouse. It’s the only mammal that can fly. Bats are active at night, and during the day they sleep – upside down! When bats fly in the dark, they use their excellent hearing to know where to go. Some bats live in caves. Most bats eat insects or fruits, but some of them eat small animals. The vampire bat – a special kind of bat – feeds only on blood!"
+    },
+    {
+      "id": "Dog",
+      "display_name": "Dog",
+      "category": "animals",
+      "text": "The dog is our best friend. Many people keep dogs as pets because they are loyal and loveable.  Dogs are domesticated animals. That means that they’re used to live with people and not in the wild. Dogs have a great sense of smell, and they communicate with barks and howls. Dogs help us a lot. For example, there are special dogs that are trained to show blind people the way, and even dogs that help police officers find people whom they’re looking for!"
+    },
+    {
+      "id": "Australia",
+      "display_name": "Australia",
+      "category": "countries",
+      "text": "Australia is a very large country and is one of the world’s continents. There are many special animals in Australia, such as the kangaroo, the koala, and the platypus. Australians love sports and barbecues. In the past, criminals were sent to Australia as a punishment because it was very far away. The people who first lived in Australia are called Aborigines. In the beginning, they didn’t get along with the newcomers, but today, they live together."
+    },
+    {
+      "id": "China",
+      "display_name": "China",
+      "category": "countries",
+      "text": "China is a huge country in Asia and is the country with the biggest number of people in the world. Chinese people eat rice and noodles, and they even invented tea. The panda bear comes from China. China used to be ruled by emperors who lived in a “forbidden city,” which no one was allowed to enter. The Chinese also built the longest wall in the world to protect themselves from intruders. Some people say that you can see it from outer space!"
+    },
+    {
+      "id": "Egypt",
+      "display_name": "Egypt",
+      "category": "countries",
+      "text": "Egypt is a country in Africa. Although most if it is desert, one of the world’s longest rivers, the Nile, runs through it. A long time ago, the Egyptians built pyramids, and today, many people from around the world come to see them. They also visit the Sphinx, a huge statue with a king’s head and a lion’s body. The ancient Egyptians didn’t write with letters but used tiny pictures instead, called hieroglyphics—just like in comic books!"
+    },
+    {
+      "id": "France",
+      "display_name": "France",
+      "category": "countries",
+      "text": "France is a country in Europe. It was one of the first countries to decide that people are free and should not be ruled by kings or queens. France’s capital city is called Paris. It has many beautiful palaces and buildings and many artists come to live there. French people love good food and wine. The croissant, a tasty French pastry, is now eaten almost everywhere. France also holds the most important bicycle race in the world, called the Tour de France."
+    },
+    {
+      "id": "Kenya",
+      "display_name": "Kenya",
+      "category": "countries",
+      "text": "Kenya is a country in Africa. It unites many different peoples and tribes that speak almost 70 different languages! There are many kinds of animals in Kenya, like lions, elephants, and buffalos. They live in large areas that are reserved only for them. Tourists visit Kenya to take safari trips, where they can see the animals living their lives without disturbing them. Kenyans are excellent athletes, especially in running. Kenya has won a lot of prizes in races and competitions."
+    },
+    {
+      "id": "Mexico",
+      "display_name": "Mexico",
+      "category": "countries",
+      "text": "Mexico is a very big country in North America. It is full of volcanoes, deserts, and even jungles. Many years ago, there were very special people in Mexico, called the Aztecs, who built many beautiful cities, pyramids, and temples. Some of the structures still stand today, and many people come to see them. Mexicans wear a sombrero, a hat with wide edges that protects them from the sun. They also have tasty food, like tacos and other dishes made out of corn and beans."
+    },
+    {
+      "id": "Morocco",
+      "display_name": "Morocco",
+      "category": "countries",
+      "text": "Morocco is a country in Africa. Most of Morocco is part of the Sahara Desert, the biggest and hottest desert in the world, but it also has a very long coast with beautiful beaches. The Atlas Mountains, which is a range of huge mountains, also stretches through Morocco. Moroccans eat a tasty dish called couscous, which is ground and cooked wheat topped with vegetables, meat, and gravy. Moroccans are wonderful hosts. They always offer their guests sweet mint tea."
+    },
+    {
+      "id": "Nepal",
+      "display_name": "Nepal",
+      "category": "countries",
+      "text": "Nepal is a country in Asia next to China and India. Nepal’s capital city is Kathmandu, which is very old and has beautiful temples and statues. The highest point of Mount Everest, which is the highest point in the world, is in Nepal. Many people from all over the world travel to Nepal to try to climb Mount Everest. Nepal’s flag has a special shape. It is made out of two triangles that look like the Himalayan Mountains in Nepal."
+    },
+    {
+      "id": "Norway",
+      "display_name": "Norway",
+      "category": "countries",
+      "text": "Norway is a country in Europe. It has long seashores, and that’s why Norwegians are excellent fishermen. Norway has thousands of islands and many fjords: beautiful, deep valleys full of water and surrounded by icy mountains. In the winter, Norway is cold and dark, but in the summer, the sun shines even at midnight! Norway’s capital city, Oslo, hosts the ceremony for the Nobel Peace Prize, a special prize awarded to people who make the world a better place."
+    },
+    {
+      "id": "Spain",
+      "display_name": "Spain",
+      "category": "countries",
+      "text": "Spain is a country in Europe. It is very beautiful and full of mountains and rivers. Spanish people are talented in sports, and Spanish teams win many trophies in basketball and soccer. Art, music, and dance are very popular in Spain. The guitar was invented in Spain, and it is used for playing flamenco, a traditional dance. Every day at noon, Spaniards enjoy a “siesta,” which is a short, refreshing nap. They also eat tapas, tiny and delicious dishes, and paella, a dish with rice."
+    },
+    {
+      "id": "Greece",
+      "display_name": "Greece",
+      "category": "countries",
+      "text": "Greece is a country in Europe that is made of a large area of land along with thousands of islands. Some of Greece’s islands are big, and some are tiny. Greece is one of the most important places in the world. It has many ancient buildings and monuments, and was actually the place where the Olympic Games were invented! Greeks have beautiful and lively music played on traditional instruments, like the bouzouki. They enjoy eating tasty dishes like tzatziki and moussaka."
+    },
+    {
+      "id": "Zimbabwe",
+      "display_name": "Zimbabwe",
+      "category": "countries",
+      "text": "Zimbabwe is a country in Africa. It’s a landlocked country, and that means it doesn’t have any seas around it. Victoria Falls, one of the most beautiful waterfalls in the world, is in Zimbabwe. Zimbabwe used to be a powerful kingdom, and today people visit the ruins of its ancient capital, which was a huge stone palace. There’s a special place in Zimbabwe called Matobo park, where you can see giant rocks standing one on top of the other without falling down!"
+    },
+    {
+      "id": "Italy",
+      "display_name": "Italy",
+      "category": "countries",
+      "text": "Italy is a country in Europe that has the shape of a boot. Rome, the capital city of Italy, used to be the most important city in the world, and it is full of beautiful buildings and art. Many famous painters, poets, and composers come from Italy. Italians have great food that people all over the world like to eat, like pizza, pasta, and lasagna. And they never forget to finish a big meal with a fresh cup of espresso coffee!"
+    },
+    {
+      "id": "Japan",
+      "display_name": "Japan",
+      "category": "countries",
+      "text": "Japan is a country in Asia that is made out of four large islands and thousands of small ones. Japan is full of forests and volcanoes. It has very special art, music, and theatre, which is called Kabuki. Japanese people eat tasty dishes like sushi, Udon noodles, and miso soup. Japan used to have brave warriors called Samurai, who had curved swords. The Japanese love Sumo Wrestling, a sport where two big and powerful competitors try to push each other out of a circle."
+    },
+    {
+      "id": "Qatar",
+      "display_name": "Qatar",
+      "category": "countries",
+      "text": "Qatar is a small Arab country in Asia and the richest country in the world. Qatar is very rich because its land is full of oil and other things that it sells to the rest of the world. Qatar is hot and dry, and has many beautiful beaches. Its capital city is called Doha, which has many tall buildings with special designs. One of Qatar’s favorite sports is camel racing, but instead of people, small robots actually ride the camels!"
+    },
+    {
+      "id": "Germany",
+      "display_name": "Germany",
+      "category": "countries",
+      "text": "Germany is a big country in Europe. It used to be divided into two countries that didn’t get along, called West Germany and East Germany. Berlin, Germany’s capital city, was even divided by a high wall! Today, Germany is united, and it’s a very wealthy and powerful country. Germany has a rich tradition of music, art, and science. Germans build excellent cars. There are highways in Germany where people are allowed to drive as fast as they want, but they’re always very careful!"
+    },
+    {
+      "id": "India",
+      "display_name": "India",
+      "category": "countries",
+      "text": "India is a huge country in Asia, with the second biggest number of people in the world. India has lots of mountains, rivers, and jungles. A kind of tiger called the Bengal Tiger is India’s national animal. Many temples in India celebrate the tradition of the Buddha, a man who lived a long time ago and taught people how to live a calm and gentle life. Mumbai, an Indian city, is like the Indian Hollywood – more than a thousand movies are filmed there every year!"
+    },
+    {
+      "id": "Yemen",
+      "display_name": "Yemen",
+      "category": "countries",
+      "text": "Yemen is an Arab country in Asia. Yemen is in a desert, and it’s very hot and dry there. Yemenite men wear a long dress, which is called a “thoob”, and carry a traditional curved dagger called a “janbiya”. There’s a special city in Yemen called Shibam, which is full of hundreds of beautiful towers made out of mud. Socotra, an island that belongs to Yemen, has very unusual plants. Many of them don’t grow in any other place in the world!"
+    },
+    {
+      "id": "Brazil",
+      "display_name": "Brazil",
+      "category": "countries",
+      "text": "Brazil is the largest country in South America, and the 5th biggest country in the world. Brazil is covered with rainforests. One of the world’s longest rivers, called the Amazon River, streams through Brazil. Every year, Brazilians celebrate a carnival with lots of music, dancing, and beautiful costumes. Brazilians love soccer. Brazil is the country that has the most kinds of animals and plants in the world. It’s also the country that has the most kinds of monkeys!"
+    },
+    {
+      "id": "Russia",
+      "display_name": "Russia",
+      "category": "countries",
+      "text": "Russia is the largest country in the world. It’s part of Europe and Asia, and has many forests, mountains, and rivers, as well as huge areas of low grass, called steppes. Russia also has many animals, like the Siberian Tiger, which is the largest tiger in the world. Russia has a long tradition of art and science. It was the first country to send an astronaut to space! Many people say that the Bolshoi, a Russian ballet company, has the best dancers in the world."
+    },
+    {
+      "id": "England",
+      "display_name": "England",
+      "category": "countries",
+      "text": "England is a country in Great Britain, which is a large island next to Europe. England used to be the center of the British Empire, a huge empire which ruled many different places in the world. England’s capital city is called London. The queen of England, Elizabeth the 2nd, lives there in a palace which is guarded by soldiers with red uniforms and giant black hats. The English invented soccer, which they call “football”, and they never forget to drink tea every afternoon!"
+    },
+    {
+      "id": "United States",
+      "display_name": "United States",
+      "category": "countries",
+      "text": "The United States of America, or the USA, is a huge country in North America. The USA is made out of 50 states that cooperate to run the country. The USA is the most powerful country in the world, and it helps many countries when they need it. The USA was the first country to put a man on the moon. Jazz music was invented in the USA. Americans love football, basketball, and baseball, and many of them enjoy eating hamburgers and hot dogs."
+    },
+    {
+      "id": "Venezuela",
+      "display_name": "Venezuela",
+      "category": "countries",
+      "text": "Venezuela is a country in South America. Its capital city is Caracas, which is located in a beautiful valley and is named after a tribe of very brave people. Venezuela has many different types of landscapes: rainforests, plains, rivers, mountains, beaches, and even a desert! The world’s highest waterfall, called Angel Falls, is in Venezuela. If you visit Venezuela, you can see mountains that are shaped like giant tables, called “tepuis.” Venezuelans speak Spanish, and they are very warm and friendly."
+    },
+    {
+      "id": "Argentina",
+      "display_name": "Argentina",
+      "category": "countries",
+      "text": "Argentina is the second largest country in South America. One of the most beautiful waterfalls in the world, the Iguazu Falls, is in Argentina. Argentina’s capital city, Buenos Aires, is one of the biggest cities in the world. Argentina has lots of music and also a special dance, called Tango. Argentineans love soccer, and enjoy having barbecues, which they call Asado. Once a year, Argentineans celebrate a special holiday called “friend’s day” and give presents to their friends."
+    },
+    {
+      "id": "Appendix",
+      "display_name": "Appendix",
+      "category": "human_body",
+      "text": "The appendix is a small organ inside the belly. For a very long time, people didn’t know what the appendix does and thought that we don’t really need it. We know that the eyes see and that the legs walk, but what does the appendix do? Today, scientists say that the appendix is like a small warehouse of good germs that helps the body fight bad germs inside our belly when it is sick. It turns out that we need it anyway!"
+    },
+    {
+      "id": "Brain",
+      "display_name": "Brain",
+      "category": "human_body",
+      "text": "The brain is a big, soft organ inside our head and it is the commander of our body. We can’t feel, think, or do anything without the brain. The brain tells our organs what to do: for example, it orders our hands to move and our mouth to speak. Things we remember and imagine are stored in the brain. It helps us understand the things that happen to us. The dreams that we have when we are asleep actually happen in the brain."
+    },
+    {
+      "id": "Ears",
+      "display_name": "Ears",
+      "category": "human_body",
+      "text": "Ears are small organs on both sides of the head that we use for hearing. Each ear has three parts: the first part is called the outer ear, and it collects the sounds around us, like talking, melodies, and animal sounds. The second part is called the middle ear, and it has tiny bones that help the sounds we collected to travel inside our head. The third part is the inner ear. It sends the sounds to the brain, which understands them."
+    },
+    {
+      "id": "Heart",
+      "display_name": "Heart",
+      "category": "human_body",
+      "text": "The heart is a very important muscle inside our chest. It is the same size as your fist. The heart pumps blood, which delivers oxygen and other important things to the rest of the body. If you want to feel your heartbeat, place your hand on the left side of your chest. Our heart beats faster when we’re excited or when we exercise, because our body needs to get oxygen faster. When we rest, our heartbeat slows down."
+    },
+    {
+      "id": "Liver",
+      "display_name": "Liver",
+      "category": "human_body",
+      "text": "The liver is an organ between the chest and the belly that does many important things. It helps the stomach digest food and is like a warehouse for vitamins, blood, and other important things that our body needs. The liver helps clean the body if we eat or drink something that is not healthy for us. Believe it or not, the liver is the only part inside our body that can grow back if some of it is cut off!"
+    },
+    {
+      "id": "Lungs",
+      "display_name": "Lungs",
+      "category": "human_body",
+      "text": "Lungs are big and very important organs in our chest that we use for breathing. When we breathe in, air goes into our lungs. The air that we breathe is full of stuff that we need, like oxygen, and other stuff that we don’t need. The lungs keep the oxygen and breathe out the stuff that we don’t need. Then, they send the oxygen to the blood, which delivers it to the rest of the body."
+    },
+    {
+      "id": "Muscles",
+      "display_name": "Muscles",
+      "category": "human_body",
+      "text": "Muscles are the parts in the body that are in charge of movement and power. Everything in the body that moves has muscles—our hands, our feet, even our eyes. That’s why we have a lot of muscles—more than six hundred! Even the heart is a muscle. Our muscles can be very big, very small, or anywhere in between. The smallest muscle is inside the ear. And believe it or not, the biggest muscle is our tushy!"
+    },
+    {
+      "id": "Nose",
+      "display_name": "Nose",
+      "category": "human_body",
+      "text": "The nose is a bodily organ in the middle of the face that we use for breathing and smelling. It has two holes in the front, called nostrils. When we breathe, tiny hairs inside our nostrils keep dust from entering the body so that the air is as clean as possible. Deep inside the nose, there are tiny parts that collect different scents from the air. That’s how we feel that some flowers have a pleasant smell and that skunks stink!"
+    },
+    {
+      "id": "Teeth",
+      "display_name": "Teeth",
+      "category": "human_body",
+      "text": "Teeth are small white parts inside our mouth that we use for chewing the food we eat. When our teeth chew food, they cut it into little pieces and make it easier for the throat to swallow it. After we are born, our baby teeth start to grow. When we are six years old, they start falling out. But don’t worry! Stronger teeth called adult teeth will soon grow instead. We can use them for the rest of our lives."
+    },
+    {
+      "id": "Tongue",
+      "display_name": "Tongue",
+      "category": "human_body",
+      "text": "The tongue is a muscle inside our mouth that we use when we eat and speak. It has a lot of tiny bumps on it called taste buds that touch the food when we eat it and sense what taste it has. That’s how we know that ice cream is sweet and that lemons are sour. The tongue also helps us make sounds when we speak. Try saying words like “lollipop,” “t-shirt,” and “daddy” without using your tongue—it’s impossible!"
+    },
+    {
+      "id": "Nail",
+      "display_name": "Nail",
+      "category": "human_body",
+      "text": "A nail is a hard part on our body that protects the tips of our fingers and toes. Nails are made out of keratin—which is the same stuff that our hair and skin are made of, although they look and feel different. Besides protecting our fingers, nails do other important things, like grabbing tiny objects or scratching a nagging itch. Fingernails grow slowly, and toenails grow even slower! If your nail falls off, don’t worry: a new one will soon grow instead!"
+    },
+    {
+      "id": "Bone",
+      "display_name": "Bone",
+      "category": "human_body",
+      "text": "Bones are hard parts of the body that create its frame, called the skeleton. Bones support the body, and protect soft organs like the brain or the heart. Some bones are connected to muscles, and together they move the body. Bones have many different shapes and sizes. The largest bone is in our thigh. The smallest bone is inside our ear. If you break your arm or leg, you have to wear a cast until the bone heals. But don’t worry – soon it’ll be as good as new!"
+    },
+    {
+      "id": "Eye",
+      "display_name": "Eye",
+      "category": "human_body",
+      "text": "Eyes are ball-shaped organs on our face that we use for seeing. The black circle in the middle of the eye is called the pupil. It allows light to enter the eye. Then, there’s a part in the back of the eye that collects the images we see and sends them to the brain. When we cry, tears come out of a tiny sack next to the corner of the eye. We also use tears when we blink, to keep the eyes moist."
+    },
+    {
+      "id": "Blood",
+      "display_name": "Blood",
+      "category": "human_body",
+      "text": "Blood is a red fluid that moves around our body, delivers things the body needs, and collects things it doesn’t need any more. Blood travels from the heart, which pumps it through a system of tubes called arteries. It returns to the heart inside a system of tubes called veins. There are two types of cells in the blood: white cells, which patrol the body like guards and defend it, and red cells, which send oxygen and other important things all over the body."
+    },
+    {
+      "id": "Stomach",
+      "display_name": "Stomach",
+      "category": "human_body",
+      "text": "The stomach is an organ inside our body that takes care of the food we eat and the drinks we drink. It’s a little bit above our belly and looks like a small sack. After we swallow food, it travels to the stomach through a long tube. When food arrives in the stomach, the stomach mixes it with a special liquid. This liquid helps us keep the useful parts of the food and get rid of the parts we don’t need."
+    },
+    {
+      "id": "Cell",
+      "display_name": "Cell",
+      "category": "human_body",
+      "text": "Cells are the building blocks of our body. Just like houses are made of bricks, our body is made out of cells. Every kind of cell has a different structure and does something special. For example, red blood cells look like tiny buttons and carry oxygen around; brain cells look like tiny stars and carry information to the brain; and muscle cells look like tiny tubes. The most important part in every cell is called a nucleus, and it is the cell’s commander."
+    },
+    {
+      "id": "Hair",
+      "display_name": "Hair",
+      "category": "human_body",
+      "text": "Hairs are thin strings that grow out of our head and in many parts of our body. The hair on our head can be straight, wavy, or curly, with different colors: black, brown, red or blond. When people become old, their hair becomes gray or white. Our hair grows all the time. Every month it grows about half an inch longer! The goose bumps we get when it's cold are actually our hair standing up. That’s how it keeps the heat inside the body!"
+    },
+    {
+      "id": "Kidney",
+      "display_name": "Kidney",
+      "category": "human_body",
+      "text": "The kidneys are two organs in the sides of our lower back that look like beans. The kidneys clean up our blood. They also make sure that we have just the right amount of water and other materials in our body. The water that we don't need anymore, along with the stuff that was removed from the blood, turns into the urine that we pee. The kidneys work very hard. Every day, the amount of blood they clean can fill an entire bath tub!"
+    },
+    {
+      "id": "Nerve",
+      "display_name": "Nerve",
+      "category": "human_body",
+      "text": "A nerve is like a messenger that sends information between the brain and other parts of the body. The messages travel in the nervous system, which is like a set of roads inside the body. One kind of nerves sends the brain messages with information about what we see, hear, feel, taste, or smell. When the brain wants the body to do something, it uses another kind of nerves to send orders to the muscles, telling the muscles to move."
+    },
+    {
+      "id": "Skeleton",
+      "display_name": "Skeleton",
+      "category": "human_body",
+      "text": "The skeleton is the shape made by all of the bones in our body, which are connected together. The bones in the body are connected to each other in a way that makes sure that the body can move easily and safely. Parts of the skeleton protect organs inside our body. For example, the bones in our chest protect the heart and lungs, and the skull protects the brain. The skeleton is made of more than 200 bones!"
+    },
+    {
+      "id": "Skin",
+      "display_name": "Skin",
+      "category": "human_body",
+      "text": "Skin is the outer part of our body. It's the biggest organ we have! The skin protects us, cools or heats the body, and helps us feel things that we touch. Sometimes, if we get cut, the wound that healed leaves a mark on our skin, called a scar. If we spend time in the sun, our skin becomes tan, but if we aren't careful we might also get sunburns. That’s why it’s important to use sunscreen and stay in the shade!"
+    },
+    {
+      "id": "Tissue",
+      "display_name": "Tissue",
+      "category": "human_body",
+      "text": "A tissue is a group of cells of the same kind that work together as a team to do the same job in our bodies. For example, muscle tissue is a group of muscle cells working together to make a part of the body move. Tissues can be hard like bones, soft like skin, and even liquid, like blood! The organs in our body are made of tissue. For example, our leg is made mostly out of bone tissue, blood, muscles and skin."
+    },
+    {
+      "id": "Tonsils",
+      "display_name": "Tonsils",
+      "category": "human_body",
+      "text": "Tonsils are two bumps on the back of our throat that help us if a germ or a virus enters the body through food that we eat or air that we breathe. We usually don’t feel our tonsils, but when we’re sick in our throat, they become bigger because they to work to protect us. Sometimes, if the tonsils are too big or if they make breathing difficult, the doctor decides to take them out. It's a very simple surgery that many people have."
+    },
+    {
+      "id": "Womb",
+      "display_name": "Womb",
+      "category": "human_body",
+      "text": "The womb is the place where the baby grows in the mother's belly. Babies develop in the womb for nine months until they are ready to be born. Babies grow in a special sac inside the womb that protects them and gives them oxygen and other stuff they need. The womb can change its size and shape. It's usually the size of a pear, but when a baby grows inside it, the womb can become as big as a watermelon!"
+    },
+    {
+      "id": "Versailles",
+      "display_name": "Versailles",
+      "category": "landmarks",
+      "text": "The Palace of Versailles is a beautiful palace in France. It used to be the home of France’s kings and queens, especially a king called Louis the 16th and his wife Marie Antoinette, who were kicked out of there because they treated the people of France badly. The Palace of Versailles has a lot of fancy furniture, statues, paintings, and other beautiful decorations. The most impressive room is the Hall of Mirrors, which has beautiful arches and mirrors. Versailles also has wonderful gardens and fountains."
+    },
+    {
+      "id": "Tower of Pisa",
+      "display_name": "Tower of Pisa",
+      "category": "landmarks",
+      "text": "The Tower of Pisa is named after the city of Pisa in Italy, where it stands. The tower leans to one side and looks like it’s going to fall! That’s because it was built a very long time ago on soft ground, and one side simply sank in it! The Tower of Pisa is a circular bell tower and it belongs to the church of Pisa. It has eight floors, seven bells, and more than two hundred marble arches."
+    },
+    {
+      "id": "Stonehenge",
+      "display_name": "Stonehenge",
+      "category": "landmarks",
+      "text": "Stonehenge is a circle of huge stones in England, which was built thousands of years ago. No one knows for sure why Stonehenge was built. Some say it was a religious place, some say it was a burial place, and others believe it was a place where people used to look at the sun, the moon, and the stars. The stones weigh tons—and nobody really knows how the people who built Stonehenge were able to put them there."
+    },
+    {
+      "id": "Mount Rushmore",
+      "display_name": "Mount Rushmore",
+      "category": "landmarks",
+      "text": "Mount Rushmore is a famous mountain in South Dakota, a state in the United States. It has a huge sculpture of the faces of four American presidents carved into it. The presidents are George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. It took 14 years and 400 workers to create the sculpture! Before they carved the statue, the workers on Mount Rushmore had to get rid of lots of rocks, so they blew them up with dynamite!"
+    },
+    {
+      "id": "Western Wall",
+      "display_name": "Western Wall",
+      "category": "landmarks",
+      "text": "The Western Wall is a site in the old city of Jerusalem in Israel. Many years ago, it used to be a part of the wall that surrounded the Jewish Temple. The Temple was ruined, and the Wall is all that is left. It’s also called “the Wailing Wall,” because Jewish people cry there, remembering  the Temple’s destruction. Many people stick small pieces of paper between the stones of the Wall, where they write their prayers and wishes."
+    },
+    {
+      "id": "Acropolis of Athens",
+      "display_name": "Acropolis of Athens",
+      "category": "landmarks",
+      "text": "The Acropolis is a beautiful fortress that was built on a rocky hill a very long time ago in Athens, a city in ancient Greece. The Acropolis was the highest part of ancient Athens, and had impressive buildings, temples, and theatres. The people of Athens used to come there to pray and celebrate holidays and festivals. Some of the Acropolis buildings still stand today, and people from all over the world come to see them."
+    },
+    {
+      "id": "Pyramids",
+      "display_name": "Pyramids",
+      "category": "landmarks",
+      "text": "The pyramids are ancient huge structures that are located in Egypt. They have a very special shape: the walls are triangular and the floor is square. The ancient Egyptians built the pyramids as giant tombs for their kings, called pharaohs, who were buried inside with their belongings and jewelry. It took thousands of workers to build one pyramid! There are more than 130 pyramids in Egypt. The biggest and most famous ones are in the city of Giza."
+    },
+    {
+      "id": "Petra",
+      "display_name": "Petra",
+      "category": "landmarks",
+      "text": "Petra is an ancient city in Jordan, located in the desert. The city was built by the Nabataeans, an ancient Arab tribe, who carved into the mountains amazing temples, tombs, buildings, and even a theatre. The city is also called “the Rose City,” because of the color of the rocks it is made from. It also had special canals to transport water. People from all over the ancient world used to come to Petra to sell and buy spices and silk."
+    },
+    {
+      "id": "Pompeii",
+      "display_name": "Pompeii",
+      "category": "landmarks",
+      "text": "Pompeii is an ancient city in Italy. Many years ago, it was a lovely town in Ancient Rome, in which both poor and very rich people lived. One summer’s day, the nearby volcano, Mount Vesuvius, erupted, and the town was buried completely under the ash. Two thousand years later, archaeologists dug the area and found Pompeii frozen in time: streets, villas, temples, theatres, shops, and artifacts were kept whole, teaching us a lot about how Roman people lived."
+    },
+    {
+      "id": "Niagara Falls",
+      "display_name": "Niagara Falls",
+      "category": "landmarks",
+      "text": "The Niagara Falls are three beautiful waterfalls between Canada and the United States. The Niagara Falls’ waters move very quickly—hundreds of thousands gallons of water flow down them every second! The water is so powerful that it is even used for making electricity. Although it is very dangerous, a few people have jumped into the water and some have even walked over the falls on a tightrope! Many people visit the Niagara Falls every year and watch the beauty of the flowing water."
+    },
+    {
+      "id": "Hermitage",
+      "display_name": "Hermitage",
+      "category": "landmarks",
+      "text": "The Hermitage, a museum in the city of Saint Petersburg in Russia, is one of the oldest and largest museums in the world. It stretches over a number of fancy palaces. The emperors of Russia used to live in one of the palaces before they decided to turn it into a museum. There are more than three million works of art in the Hermitage: paintings, sculptures, ancient artifacts, jewelry, and many other beautiful things from different times and places."
+    },
+    {
+      "id": "Eiffel Tower",
+      "display_name": "Eiffel Tower",
+      "category": "landmarks",
+      "text": "The Eiffel Tower is a very tall tower and the most famous site in Paris, France’s capital city. If you come to Paris, you can’t miss it. It was built more than a hundred years ago and is named after Gustave Eiffel, the owner of the company that built it. The Eiffel Tower is made completely out of iron. At night, many beautiful lights decorate it. Every year, visitors climb the Eiffel Tower to enjoy the great view of Paris from its top."
+    },
+    {
+      "id": "Machu Picchu",
+      "display_name": "Machu Picchu",
+      "category": "landmarks",
+      "text": "Machu Picchu was a city of the Incas, a very large tribe that lived in South America many years ago. It is a magical site, beautifully located on high mountains in Peru. Machu Picchu was probably built as a residence for the Inca ruler. The Incas built there out of stone many beautiful buildings: palaces, temples, and houses. They also paved terraces—special steps that were used to grow food. Many tourists visit Peru and climb the mountains to see Machu Picchu’s beauty."
+    },
+    {
+      "id": "Loch Ness",
+      "display_name": "Loch Ness",
+      "category": "landmarks",
+      "text": "Loch Ness is a large, deep lake in Scotland. Some people believe that a giant creature lives inside the lake’s dark waters. They call it “the Loch Ness Monster,” and its nickname is Nessie. People say that Nessie has a large body and a long neck, like a kind of dinosaur that lives in water. Some even took pictures of it. Scientists who studied the lake claim that all of these are just make-believe stories and that Nessie doesn’t really exist."
+    },
+    {
+      "id": "Kilimanjaro",
+      "display_name": "Kilimanjaro",
+      "category": "landmarks",
+      "text": "Kilimanjaro is a giant mountain in Tanzania, a country in Africa. It is the highest point in Africa, and that’s why it is sometimes called “the Roof of Africa.” Mount Kilimanjaro is famous for its icy peak. In fact, it’s actually a volcano that doesn’t erupt anymore. You can find different environments on Mount Kilimanjaro: forests, bushes, little swamps, and even a desert. Many animals live on the mountain, like elephants, monkeys, buffalos, antelopes, and birds."
+    },
+    {
+      "id": "Taj Mahal",
+      "display_name": "Taj Mahal",
+      "category": "landmarks",
+      "text": "The Taj Mahal is a beautiful mausoleum, which is a large tomb, in the city of Agra in India. An Indian emperor built it in memory of his beloved wife, whom he called “the Jewel of the Palace.” The Taj Mahal is made of white marble and is decorated with precious stones. People from all over the world come to see it. It took more than twenty years to build the Taj Mahal, which also has a large garden and an enormous pool."
+    },
+    {
+      "id": "Great Wall of China",
+      "display_name": "Great Wall of China",
+      "category": "landmarks",
+      "text": "The Great Wall of China is a very long wall that the Chinese built in order to defend China from enemies. It’s the longest structure that was ever built, and it took almost 2,000 years to build it! The wall was built from stone, wood, earth, and bricks. The work was very hard and the workers suffered a lot. The Great Wall of China is so long that some people say you can even see it from outer space!"
+    },
+    {
+      "id": "Empire State Building",
+      "display_name": "Empire State Building",
+      "category": "landmarks",
+      "text": "The Empire State Building is a building in New York City that used to be the tallest building in the world. It has 103 floors, 73 elevators, and 6,500 windows! At night, the building is lit with colorful lights that change during special events, celebrations, and holidays. If you stand on its observation deck, you can see the entire view of New York City. Every year, there’s a race to run up the stairs to its 86th floor. That’s very exhausting!"
+    },
+    {
+      "id": "Big Ben",
+      "display_name": "Big Ben",
+      "category": "landmarks",
+      "text": "Big Ben is a very high tower in London, England’s capital. Big Ben has the biggest four-faced clock in the world—the clock faces all four directions, so that anyone who looks at it can see what time it is. Not many people know that although everyone calls the tower Big Ben, it’s actually the nickname given to the giant bell inside it. This bell, along with four smaller ones, chimes a pleasant melody that can be heard from far away."
+    },
+    {
+      "id": "Everest",
+      "display_name": "Everest",
+      "category": "landmarks",
+      "text": "Mount Everest is the highest mountain in the world. It is located between Nepal and Tibet, and is part of the Himalayan Mountains in Asia. The top of the mountain is covered in deep snow all year round. Climbing to the top of Mount Everest is very difficult and dangerous, since it is very high and steep, the weather is freezing, and sometimes there are avalanches on the way. Even so, thousands of people have already climbed it!"
+    },
+    {
+      "id": "Iguazu Falls",
+      "display_name": "Iguazu Falls",
+      "category": "landmarks",
+      "text": "The Iguazu Falls are giant waterfalls, which are part of the Iguazu River, between Argentina and Brazil. The Iguazu Falls are actually made out of 275 separate waterfalls that together form the shape of a horseshoe. The most impressive part of the waterfalls is called “the Devil’s Throat.” Many beautiful plants grow around the waterfalls, and you can also see small birds, called great dusky swifts, dive into them. You can often see a wonderful rainbow over the Iguazu Falls."
+    },
+    {
+      "id": "Easter Island",
+      "display_name": "Easter Island",
+      "category": "landmarks",
+      "text": "Easter Island, also called Rapa Nui, is a small and distant island in the Pacific Ocean. Easter Island is full of hundreds of sculptures of huge figures, called Moai, which are carved from very big stones. The Moai were carved by the first people who lived on the island. They worked in teams, and it took about a year to finish each statue. How exactly they moved those giant statues, and why they built them, is still a mystery."
+    },
+    {
+      "id": "Grand Canyon",
+      "display_name": "Grand Canyon",
+      "category": "landmarks",
+      "text": "The Grand Canyon is a famous site in a huge park in Arizona, a state in the United States. It is a deep narrow valley between colorful steep cliffs, where the Colorado River flows. The Grand Canyon is full of wild animals and beautiful plants. Millions of tourists come to enjoy the amazing natural view of this place. You can tour the Grand Canyon by driving, walking, hiking, rafting, or even by riding a horse or a mule."
+    },
+    {
+      "id": "Statue of Liberty",
+      "display_name": "Statue of Liberty",
+      "category": "landmarks",
+      "text": "The Statue of Liberty is a giant statue of a woman holding a torch in one hand and a tablet in the other, with a broken chain next to her feet. It was a gift that France gave to the United States. The Statue of Liberty stands on a small island just outside of New York City, and welcomes anyone who visits the city by sea. Many people take a ferry to visit the statue and honor its message of freedom."
+    },
+    {
+      "id": "Recorder",
+      "display_name": "Recorder",
+      "category": "musical_instruments",
+      "text": "A recorder is a small wooden instrument that is very similar to the flute. The difference between them is that the recorder player puts it in the mouth and blows air into it, and the flute player blows air into the flute without touching it. Recorders have holes in them, and you play different notes by covering different holes. If you want to learn how to play music, the recorder is a great place to start!"
+    },
+    {
+      "id": "Pipe Organ",
+      "display_name": "Pipe Organ",
+      "category": "musical_instruments",
+      "text": "The pipe organ is the biggest instrument in the world. It is played like the piano, but every note has a special pipe that air goes through to make a sound. Sometimes there are different kinds of pipes that make different kinds of sounds. Some pipe organs have more than a thousand pipes! The pipes can be as tall as a three story building or as short as a as pen! It all sounds very loud!"
+    },
+    {
+      "id": "Ukulele",
+      "display_name": "Ukulele",
+      "category": "musical_instruments",
+      "text": "A Ukulele is a small guitar that comes from Hawaii. It has a fun and playful sound, and that's why it's called ukulele, a word that means \"jumping flea\" in the Hawaiian language! Ukulele's are usually made of wood or plastic and have four strings. In many countries in the world, people use the ukulele for teaching music, because it's a very easy instrument to play. Why don't you try it?"
+    },
+    {
+      "id": "Viola",
+      "display_name": "Viola",
+      "category": "musical_instruments",
+      "text": "The viola is like the violin's older brother or sister. It looks exactly like a violin, and people play it exactly the way they play the violin, but the viola is a little bit bigger and has a lower sound. The viola is part of the orchestra. In the past, the viola was treated as an instrument that is only accompanies other instruments, but as time went by composers starting writing music especially for it."
+    },
+    {
+      "id": "Didgeridoo",
+      "display_name": "Didgeridoo",
+      "category": "musical_instruments",
+      "text": "The didgeridoo is a traditional instrument that is played by the Aborigines, the people who first lived in Australia. The Didgeridoo is a long, hollow piece of wood that the player blows through. It doesn't make melodies, but very deep sounds. Didgeridoo players are very skilled. They can play the didgeridoo and breathe at the same time, and that's how can they can play it without stopping for a very long time."
+    },
+    {
+      "id": "Drums",
+      "display_name": "Drums",
+      "category": "musical_instruments",
+      "text": "A drum is a musical instrument that gives rhythm to other instruments, and can also accompany dancing. There are many kinds of drums from all over the world. Some are played with wooden sticks called drumsticks, like the snare drum, tom tom drums, or cymbals. Other kinds of drums are played with the feet, like the bass drum and the high hat. Together they create great rhythms!"
+    },
+    {
+      "id": "Gong",
+      "display_name": "Gong",
+      "category": "musical_instruments",
+      "text": "A gong is a very old traditional musical instrument that is found in many places in the world, from China to Africa. Gongs come in different sizes. Gongs are played with a mallet, which is like a hammer with a soft edge, that strikes it. Each gong can make only one sound, but they're all very loud! In some places, gongs were used to wake people up in the morning!"
+    },
+    {
+      "id": "Oud",
+      "display_name": "Oud",
+      "category": "musical_instruments",
+      "text": "The oud is a traditional string instrument that looks like a guitar with a big body and thin neck. It is the most important musical instrument in the Arab world. Ouds are made of wood. In fact, the word \"oud\" means \"wood\" in the Arabic language! Some people say that ouds have existed for thousands of years! Ouds have a beautiful, deep sound. They can be played alone, with other instruments, and also with singing and dancing."
+    },
+    {
+      "id": "Guitar",
+      "display_name": "Guitar",
+      "category": "musical_instruments",
+      "text": "The guitar is a wooden instrument from Spain and one of the most famous instruments in the world. Guitars have six strings, a large body, and a long neck. Guitars can play melodies, or chords. Many people play the guitar and sing at the same time. The electric guitar is a special guitar that’s connected to a sound speaker. It can make loud and fascinating sounds!"
+    },
+    {
+      "id": "Accordion",
+      "display_name": "Accordion",
+      "category": "musical_instruments",
+      "text": "The accordion is a traditional musical instrument in different parts of the world. It’s very loud, and many people play it with songs and dances. The accordion’s body is called a squeezebox, because you have to squeeze it and stretch it to make a sound. But that's not enough! You also have to play the melody on the keyboard with your right fingers, and push the buttons to choose the chords with your left fingers. That’s not easy at all!"
+    },
+    {
+      "id": "Banjo",
+      "display_name": "Banjo",
+      "category": "musical_instruments",
+      "text": "The banjo is a folk music string instrument that is played with songs and dances. It has a round body and a long neck. It usually has four strings, but sometimes, it has five or even six. The banjo was invented in America by African-Americans who based it on instruments that they used to play in Africa. Today, it is very popular in America, especially in a kind of music called “country”."
+    },
+    {
+      "id": "Bouzouki",
+      "display_name": "Bouzouki",
+      "category": "musical_instruments",
+      "text": "The bouzouki is a Greek string instrument that is used to play traditional Greek folk music. It can either accompany a song or play the lead melody. The bouzouki is made of wood and has a round body and a long neck. Most bouzoukis have three double strings, but some have four. When you pluck a bouzouki string, it sounds like this… When you play a tune, it sounds like this…"
+    },
+    {
+      "id": "Flute",
+      "display_name": "Flute",
+      "category": "musical_instruments",
+      "text": "The flute is a long and narrow instrument that makes sounds when the player blows air into it without touching it. It is probably the oldest instrument in the world. There are many types of flutes in different sizes and having different tones. A small wooden flute sounds like this… In an orchestra, the flute is made of brass and is played on the side. It has a very sweet sound."
+    },
+    {
+      "id": "Lute",
+      "display_name": "Lute",
+      "category": "musical_instruments",
+      "text": "The lute is a string instrument that looks like a strange guitar. It is made of wood and has a round body and a neck. Not many people play it today, but in the past, people used to play it a lot. Some kinds of lutes are still played in Africa and Asia, like the oud, a traditional Arabic instrument. The lute was used for playing songs and for accompanying dances, but many composers wrote music just for it."
+    },
+    {
+      "id": "Tuba",
+      "display_name": "Tuba",
+      "category": "musical_instruments",
+      "text": "The tuba is a very large and loud brass instrument that produces very low tones. It is part of an orchestra and is also used in marching bands. The tuba player has to have powerful lungs to blow enough air into the instrument for it to make a sound. Tuba players make different notes by pressing its different valves with their fingers. Although it is big and heavy, the tuba can sometimes produce delicate and pleasant sounds."
+    },
+    {
+      "id": "Violin",
+      "display_name": "Violin",
+      "category": "musical_instruments",
+      "text": "The violin is a wooden string instrument with a small body, a short neck, and four strings. It is usually played with a bow, but sometimes, the player plucks its strings. The violin is part of an orchestra, but it is also played in traditional music all over the world The oldest violin that people still play today is more than three hundred years old!"
+    },
+    {
+      "id": "Harp",
+      "display_name": "Harp",
+      "category": "musical_instruments",
+      "text": "The harp is a string instrument in the shape of a triangle. There are many kinds of harps, and they all have a lot of strings. The concert harp, for example, has 47 strings! Sometimes, strings are painted in different colors so that the player can find them easily. Some harps are small and can be played on the lap, and some are very big and stand on the floor. The harp’s sound is very sweet and dreamy."
+    },
+    {
+      "id": "Piano",
+      "display_name": "Piano",
+      "category": "musical_instruments",
+      "text": "The piano is a very big instrument that is played with our hands. It has black and white keys, and when our fingers press them, tiny hammers, which are connected to them, strike tight strings and produce a wide range of notes. In simple songs, the right hand plays the melody, and the left hand accompanies it with chords. Sometimes, all of the fingers play together and make rich and fascinating music."
+    },
+    {
+      "id": "Cello",
+      "display_name": "Cello",
+      "category": "musical_instruments",
+      "text": "The cello is a large string instrument made out of wood and played with a bow. It has a loud and low tone that sounds like this... The cello has a very big body, a long neck, and four strings. Because of its size, the cello player leans it on the floor and always plays it while sitting down. The cello is part of a musical orchestra, but many composers write music especially for it because of its wonderful sound."
+    },
+    {
+      "id": "Clarinet",
+      "display_name": "Clarinet",
+      "category": "musical_instruments",
+      "text": "The clarinet is one of the most important reed instruments. A reed is a hard plant that instrument makers cut into thin pieces that they put into the instrument. When air shakes the reed, it makes a special sound. The clarinetist blows air into the clarinet and covers different holes in it to make different notes. People use the clarinet to play many kinds of music. It has a beautiful, delicate sound, but can also be very noisy!"
+    },
+    {
+      "id": "Oboe",
+      "display_name": "Oboe",
+      "category": "musical_instruments",
+      "text": "The oboe is an instrument that looks like a clarinet with a thin and long tip. It is a reed instrument, just like the clarinet, and you also play it by blowing air into it and covering different holes. Some people say that if you don't play the oboe properly, it sounds like a duck! In fact, there's a famous musical composition where the oboe pretends to be a duck. It actually sounds very nice!"
+    },
+    {
+      "id": "Trombone",
+      "display_name": "Trombone",
+      "category": "musical_instruments",
+      "text": "The trombone is a big brass instrument with a deep and warm sound that looks like a long trumpet. The trombone player blows air into it and uses a handle to slide it back and forth. When you slide the trombone, it becomes longer or shorter, and that's how you can play different notes. Sometimes you have to slide the trombone so far away from you to play a note, that you really have to stretch your arms to make it!"
+    },
+    {
+      "id": "Trumpet",
+      "display_name": "Trumpet",
+      "category": "musical_instruments",
+      "text": "The trumpet is a loud instrument made out of a metal called brass. The trumpet can make different kinds of bright and lively sounds. It's very popular in the orchestra and in jazz music. Trumpets have three buttons that the player presses to make different notes. To play the trumpet, you have to tighten your lips together, attach them to the trumpet, and blow air through your lips. That takes a lot of practice!"
+    },
+    {
+      "id": "Xylophone",
+      "display_name": "Xylophone",
+      "category": "musical_instruments",
+      "text": "The xylophone is a musical instrument made out of wooden bars. To play it you strike the bars with mallets, which are like hammers. The bars of the xylophone are arranged like the keys of the piano, but each bar has a different length. Long bars play low notes, and short bars play high notes. There are many kinds of xylophones in different parts of the world, and there are also small xylophones made especially for kids!"
+    },
+    {
+      "id": "Hurricane",
+      "display_name": "Hurricane",
+      "category": "nature",
+      "text": "A hurricane is a wild storm with heavy rain, strong winds, and thunderstorms. The wind is so powerful that it moves faster than a car! The center of a hurricane is called “the eye”—it is a big, sunny, and quiet area, but the winds around it are very strong. Hurricanes begin in the ocean and move to the land, and can sometimes cause a lot of damage. Every time a hurricane arrives, people give it a name, like Arthur or Andrea."
+    },
+    {
+      "id": "Continent",
+      "display_name": "Continent",
+      "category": "nature",
+      "text": "A continent is a very big area in the world. There are seven continents: Asia, Africa, North America, South America, Europe, Australia, and Antarctica. Some continents, like Australia, are surrounded by water and are like huge islands. Other continents, like Asia and Europe, are connected to each other. Most continents have many countries in them, but one continent has only one country – and that’s Australia. Antarctica is the only continent that no one lives in – it’s just too cold!"
+    },
+    {
+      "id": "Desert",
+      "display_name": "Desert",
+      "category": "nature",
+      "text": "A desert is a dry area that almost doesn’t get any rain. That’s why very few plants and animals – like cacti or camels – are able to live there. We usually think deserts are very hot and covered with sand, but in fact some deserts are very cold and are covered with rocks and ice. Antarctica, which is one of the world’s continents, is actually a very cold desert. The hottest desert in the world is in Africa. It’s called the Sahara."
+    },
+    {
+      "id": "Thunder",
+      "display_name": "Thunder",
+      "category": "nature",
+      "text": "Thunder is the loud noise that lightning makes. Lightning is electric and very hot, and when it heats the air very quickly, it makes a very loud noise in the sky. Light moves faster than sound, and that’s why we sometimes hear the thunder after we’ve already seen the lightning. A thunderstorm is a storm with a lot of thunder and lightning. Some people think thunder is frightening, but don’t worry, it happens far away and can’t hurt you."
+    },
+    {
+      "id": "Oasis",
+      "display_name": "Oasis",
+      "category": "nature",
+      "text": "An oasis is an area with water and plants in the middle of a desert. Animals and people can live there, or take a break to rest, drink, and get some shade. Some oases are very small, and some are as big as cities! An oasis is formed when water comes out from under the ground. Then birds come to drink and leave seeds, and that’s how plants grow in the oasis. Palm trees are important for oases, because they protect them from sand."
+    },
+    {
+      "id": "Ocean",
+      "display_name": "Ocean",
+      "category": "nature",
+      "text": "An ocean is a huge sea that spreads between continents. Most of the world is covered by oceans. There are five oceans: the Pacific, the Atlantic, the Indian, the Antarctic, and the Arctic Ocean. The biggest ocean in the world is the Pacific Ocean. The warmest ocean is the Indian Ocean. The Arctic Ocean is so cold that it’s usually covered with ice. Sometimes the water in the ocean is so deep, that sunlight never reaches it and it’s completely dark!"
+    },
+    {
+      "id": "Rainbow",
+      "display_name": "Rainbow",
+      "category": "nature",
+      "text": "A rainbow is a beautiful, colorful bow that we sometimes see in the sky when it rains and the sun shines at the same time. Every rainbow is made out of seven stripes, each in a different color: red, orange, yellow, green, blue, indigo, and violet. When these colors are mixed together they create sunlight. When we see a rainbow, we see the sunlight through the rain drops. The rain drops separate the colors of sunlight from each other."
+    },
+    {
+      "id": "Cloud",
+      "display_name": "Cloud",
+      "category": "nature",
+      "text": "Clouds are groups of tiny drops of water and tiny pieces of ice that float in the air because they are very light. The wind moves the clouds and causes them to change their shape all the time. Sometimes it’s fun to look at clouds and imagine what things they remind us of. When clouds become more crowded, water drops bump into each other and get bigger and heavier. When the drops are too heavy to float, they fall down and it starts raining!"
+    },
+    {
+      "id": "Rainforest",
+      "display_name": "Rainforest",
+      "category": "nature",
+      "text": "A rainforest is a forest that’s warm all year long and gets lots of rain. There are rainforests in many places in the world, like Brazil and Africa. Many rainforests are a lot smaller than they used to be. People cut their trees to use their wood, to grow crops, and also to make room for new houses to live in. Today, many people are trying very hard to save the rainforests, which are home for many animals and plants."
+    },
+    {
+      "id": "Valley",
+      "display_name": "Valley",
+      "category": "nature",
+      "text": "A valley is a long, low place between two hills or mountains. A valley is formed when snow or a glacier melt and water streams downhill and creates a river. After many years the river digs out the bottom of the ground where it flows, and the ground becomes lower and lower, until a valley is formed. The land at the bottom of the valley is usually great for growing plants, and that’s why people lived in valleys for many years."
+    },
+    {
+      "id": "Forest",
+      "display_name": "Forest",
+      "category": "nature",
+      "text": "A forest is a large area with lots of trees growing close to each other. Forests are very important: many kinds of animals and plants live there. Forests also help making oxygen, which is the stuff in the air that we need for breathing. The biggest forest in the world is the Amazon Rainforest in South America, which grows around the Amazon River. It has billions of trees, and is home for thousands of different kinds of animals and plants."
+    },
+    {
+      "id": "Fire",
+      "display_name": "Fire",
+      "category": "nature",
+      "text": "Fire is glowing light, heat and smoke created by heating something that can burn, like wood or paper. Fire is good for us: we use it for light, heat and cooking. It’s nice to sit next to a fireplace when it’s cold, or roast tasty marshmallows on bonfires. But if fire gets out of control, it can destroy forests and homes, or cause painful burns to people. That’s why it’s important to be very careful around it and never play with it."
+    },
+    {
+      "id": "Lava",
+      "display_name": "Lava",
+      "category": "nature",
+      "text": "Lava is a very hot liquid that is thrown out of a volcano during an eruption. Lava is usually orange or red. Lava is made of rocks that are formed under the ground, but it’s so hot during the eruption that they melt and turn into a liquid. Lava is much hotter than the hottest ovens in the world! When hot lava meets the air outside the volcano, it slowly cools down and turns into rocks that are called volcanic rocks."
+    },
+    {
+      "id": "Tornado",
+      "display_name": "Tornado",
+      "category": "nature",
+      "text": "A tornado is wind that twists very quickly in a circle and looks like a long tube. The top of the tornado is connected to a cloud, and its bottom touches the land. Tornadoes are created in thunderstorms. Most tornadoes are weak and disappear quickly, but strong tornadoes last longer and are sometimes so powerful that they can damage buildings and trees. People are warned before a strong tornado arrives so that they can prepare for it and be safe."
+    },
+    {
+      "id": "Waterfall",
+      "display_name": "Waterfall",
+      "category": "nature",
+      "text": "A waterfall is a part of a river where its water falls from a high place into a big pool, and the river continues to flow from there. Most waterfalls are created when the river stream slowly removes thin layers of the ground, until different parts of the river have different heights. Waterfalls are beautiful, and the sound of water falling can be very exciting. The highest waterfall in the world is Angel Falls in Venezuela. It’s higher than the world’s tallest building!"
+    },
+    {
+      "id": "Island",
+      "display_name": "Island",
+      "category": "nature",
+      "text": "An island is an area of land surrounded by water. Islands are found in oceans, seas, and even lakes and rivers. There are thousands of islands in the world. If an island was built by people, it’s called an artificial island. There are many islands that nobody lives on. These islands are called desert islands. The largest island in the world is called Greenland, but not many people live there, because most of it is covered in ice!"
+    },
+    {
+      "id": "Flower",
+      "display_name": "Flower",
+      "category": "nature",
+      "text": "A flower is the part of the plant that blooms. Flowers are usually colorful and have a nice smell, and that’s very important for them because that’s how they attract insects. The insects drink the flower’s sweet nectar and take the flower’s powder, called pollen, with them. Pollen causes new flowers to grow. The biggest flower in the world, called Titan Arum, grows in Indonesia. It’s as tall as a person, but it blooms only once every couple of years, for just three days!"
+    },
+    {
+      "id": "Lightning",
+      "display_name": "Lightning",
+      "category": "nature",
+      "text": "Lightning is the bright flash we see in the sky right before we hear a thunder during a thunderstorm. Light travels faster than sound, and that’s why we see the lightning before we hear the thunder. Lightning bolts pass between a cloud and the ground, or between two clouds. Lightning bolts are electric, and they’re even hotter than the Sun! That’s why lightning is very dangerous. If there’s a thunderstorm, be careful: don’t stand under a tree or next to water!"
+    },
+    {
+      "id": "Geyser",
+      "display_name": "Geyser",
+      "category": "nature",
+      "text": "A geyser is a powerful column of boiling hot water and steam that bursts out of the ground. When a geyser erupts, it can be as high as a tall building. A geyser erupts when water under the ground becomes so hot that it has to burst out. Some geysers erupt every few minutes, and some erupt every few hours. There are more than a thousand geysers in the world. Many of them are in the Yellowstone national park in the United States."
+    },
+    {
+      "id": "Atmosphere",
+      "display_name": "Atmosphere",
+      "category": "nature",
+      "text": "The atmosphere is like an invisible blanket that covers the world and protects it. It keeps the air we breathe close to us. The atmosphere is also like a huge air-conditioner: it makes sure that it’s not too hot during the day or too cold during the night, so that people, animals, and plants can continue to live comfortably. The area outside of the atmosphere is called outer space, and that’s where the Moon, the Sun, and the rest of the planets are."
+    },
+    {
+      "id": "Dune",
+      "display_name": "Dune",
+      "category": "nature",
+      "text": "A dune is a big hill made out of sand. Dunes are usually found in hot deserts or near beaches. Dunes are formed by strong winds or water flows, which cause sand to move. Some dunes help us: for example, dunes by the beach block big waves from the sea and prevent them from flooding the land. But sometimes dunes can cause damage, like when the wind causes them to spread and cover fields where people grow crops."
+    },
+    {
+      "id": "Volcano",
+      "display_name": "Volcano",
+      "category": "nature",
+      "text": "A volcano is a special kind of mountain that sometimes suddenly erupts and a lot of hot materials burst from it, along with rocks and ashes. The material that bursts out from volcanoes is called lava. A volcanic eruption is dangerous and can cause a lot of damage. There are many volcanoes in the world. The largest volcano is Mauna Loa, in Hawaii. Some volcanoes are called dormant volcanoes: they used to be active, but today they don't erupt anymore."
+    },
+    {
+      "id": "Water",
+      "display_name": "Water",
+      "category": "nature",
+      "text": "Water is a liquid that covers most of the Earth and is very important to us. We drink water, wash ourselves in water, and use it to help plants grow. Water does not have any color or smell. Sometimes, water is salty, like in the sea, and sometimes, it is sweet, like in lakes. When it rains, water comes down from the clouds. When you put water in a very cold place, it becomes ice."
+    },
+    {
+      "id": "Wind",
+      "display_name": "Wind",
+      "category": "nature",
+      "text": "Wind is the movement of air that we can feel. Wind can be calm and pleasant, like a breeze, but sometimes very strong and even dangerous, like during a wild storm. Wind can move things. Soft winds move tiny things like dust, and powerful winds can move even houses! People use wind’s power in many ways. In the past, they built windmills, that used wind to move large stones that ground wheat. Today wind is used to make electricity."
+    },
+    {
+      "id": "Planet",
+      "display_name": "Planet",
+      "category": "space",
+      "text": "A planet is a big body in space that moves around a star. Just like a star, it looks like a giant ball. The movement of the planet around the star is called an orbit. Earth, which we live on, is a planet, and the Sun is the star that it orbits. Sometimes, there are also bodies that orbit the planet itself; these are called moons or satellites, like the Moon that we see in the sky at night."
+    },
+    {
+      "id": "Solar System",
+      "display_name": "Solar System",
+      "category": "space",
+      "text": "The Solar System is the group of planets that orbit the Sun, together with their moons, comets, and other bodies. It is one of many planetary systems in the universe, which are groups of planets that orbit stars. The Solar System is like Earth’s neighborhood in space. The Sun is the star that is in the middle, and eight planets orbit it: first Mercury, and then Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Most of them have one or more moons."
+    },
+    {
+      "id": "Earth",
+      "display_name": "Earth",
+      "category": "space",
+      "text": "Earth is the planet on which we live. It is the only place in the universe that we know about that has people, animals, and plants on it. It has just the right combination of heat and cold to allow things to live. Like the other planets in the Solar System, Earth orbits the Sun. It is the third planet, between Venus and Mars. It takes Earth 365 days to orbit the Sun, and that’s why people decided that should be the length of a year."
+    },
+    {
+      "id": "Neptune",
+      "display_name": "Neptune",
+      "category": "space",
+      "text": "Neptune is the eighth and last planet in our solar system, after Uranus. It is so far away from the Sun that it takes it almost 165 years to orbit it. Neptune is almost four times bigger than Earth and has 14 moons. The weather on Neptune is very wild. It has a lot of fast winds and powerful storms. Once there was a storm on Neptune that lasted for five straight years!"
+    },
+    {
+      "id": "Venus",
+      "display_name": "Venus",
+      "category": "space",
+      "text": "Venus is the second planet in our solar system, between Mercury and Earth. It is sometimes called Earth’s twin planet because they are almost the same size. It takes Venus 225 days to orbit the Sun, and it is one of the few planets that don’t have any moons. Venus is also the hottest planet—more than ten times hotter than Earth! It is also the brightest object in our sky, except for the Sun and the Moon."
+    },
+    {
+      "id": "Saturn",
+      "display_name": "Saturn",
+      "category": "space",
+      "text": "Saturn is the sixth planet in our solar system, between Jupiter and Uranus. It is surrounded by huge, beautiful rings that are made out of pieces of ice, rocks, and dust. These pieces can be as small as grains of sand or as big as buildings. Saturn is the second-largest planet after Jupiter—it’s 764 times bigger than Earth! It takes Saturn 29 and a half years to orbit the Sun, and it has at least 60 moons."
+    },
+    {
+      "id": "Asteroids",
+      "display_name": "Asteroids",
+      "category": "space",
+      "text": "Asteroids are bodies that orbit the Sun but are smaller than planets. Small asteroids aren’t ball shaped like planets, but instead look like rocks in different forms and sizes. The smallest asteroids are the size of a three-story building. Very big asteroids are ball shaped and are called “dwarf planets.” There are a lot of asteroids all over the Solar System—many of them in the area between Mars and Jupiter. Some asteroids even have their own moons!"
+    },
+    {
+      "id": "Black Hole",
+      "display_name": "Black Hole",
+      "category": "space",
+      "text": "A black hole is a place in space that’s so heavy that whatever comes into it can never get out. Even light can’t escape black holes, and that’s why we can’t see them! How are black holes created? Well, all bodies have gravity, which is like a magnet that pulls things to their inside. When a star is very big and heavy, its gravity is so strong that it collapses into itself, leaving nothing but a black hole."
+    },
+    {
+      "id": "Comet",
+      "display_name": "Comet",
+      "category": "space",
+      "text": "A comet is a body in the Solar System that looks like it has a shiny tail. It is made of ice and frozen rocks. A comet comes from very far away from the Sun, but when it gets closer to it, the Sun’s heat turns its ice into gas or dust—that’s why comets seem to have a shiny tail. Sometimes, we can see comets in the sky. The most famous comet, Halley’s Comet, visits Earth’s skies once every 75 years."
+    },
+    {
+      "id": "Meteoroid",
+      "display_name": "Meteoroid",
+      "category": "space",
+      "text": "A meteoroid is a small rock that travels in space. Some meteoroids are the same size as you, and some are as small as grains of sand. Most meteoroids used to be parts of comets or asteroids, but now, they are on their own. When meteoroids enter the Earth’s skies, they become hotter and the heat makes them glow. These are the shooting stars we sometimes see at night. Quickly make a wish! Maybe it’ll come true!"
+    },
+    {
+      "id": "Galaxy",
+      "display_name": "Galaxy",
+      "category": "space",
+      "text": "A galaxy is a group of many stars, including everything that orbits them, like planets, moons, and asteroids. All of these stars stay close to each other because of their gravity, which is a force that is like a magnet that pulls something toward a body. There are many galaxies in space. The galaxy that we live in is called the Milky Way. If the Solar System is like Earth’s neighborhood, then the Milky Way is like Earth’s city."
+    },
+    {
+      "id": "Jupiter",
+      "display_name": "Jupiter",
+      "category": "space",
+      "text": "Jupiter is the fifth planet in the Solar System, between Mars and Saturn. Jupiter is the largest planet—you can fit Earth inside it more than 1,000 times! It also has many moons—at least 67! It takes Jupiter almost 12 years to orbit the Sun. When we look at Jupiter with a telescope, it seems to have a giant red spot on it. It is actually a huge hurricane, and it has been going on for hundreds of years."
+    },
+    {
+      "id": "Mercury",
+      "display_name": "Mercury",
+      "category": "space",
+      "text": "Mercury is the first planet in the Solar System. Mercury is the planet that is the closest to the Sun, and that’s why it takes only 88 days to orbit the Sun. Mercury is one of the few planets that don’t have any moons. Mercury is the smallest planet—Earth is 18 times bigger than Mercury! Mercury is boiling hot during the day. Only Venus is hotter than Mercury. But at night, Mercury is freezing cold."
+    },
+    {
+      "id": "Mars",
+      "display_name": "Mars",
+      "category": "space",
+      "text": "Mars is the fourth planet in the Solar System, between Earth and Jupiter. It’s a small planet—Earth is twice as big. Only Mercury is smaller than Mars. It takes Mars almost two years to orbit the sun. Mars’ surface is like a cold, red desert, and it has plenty of mountains and volcanoes. Scientists have built special machines called “rovers” that were sent to explore Mars. Rovers take pictures of Mars’ surface and help us learn more about it."
+    },
+    {
+      "id": "Milky Way",
+      "display_name": "Milky Way",
+      "category": "space",
+      "text": "The Milky Way is the galaxy that we live in. It has billions of stars, planets, and other bodies in it. In fact, the Solar System is only a tiny part of the Milky Way. It is called the Milky Way because when you look at it in the sky at night, it seems like a white patch of milk. If you use a telescope, you can see that this milky white patch is actually a group of many stars that are close to each other."
+    },
+    {
+      "id": "Pluto",
+      "display_name": "Pluto",
+      "category": "space",
+      "text": "Pluto is a body in the Solar System that people used to think was the ninth planet, after Neptune. Today, scientists call Pluto a dwarf planet, which is actually a big asteroid, because it’s too small to be called a planet. Pluto is made out of rocks and ice and is very cold. Because it’s very far from the Sun, it takes Pluto almost 250 years to orbit it! And although Pluto is very small, it still has five moons!"
+    },
+    {
+      "id": "Satellite",
+      "display_name": "Satellite",
+      "category": "space",
+      "text": "A satellite is a machine that is sent from Earth to space. Satellites usually orbit Earth, but some of them were sent to orbit the Moon, the Sun, and some of the planets. There are thousands of satellites orbiting Earth, and they are used in many ways. Some satellites help forecast the weather, some help scientists with their explorations, some help airplanes find their way in the sky, and most importantly, they can transmit TV shows all over the world!"
+    },
+    {
+      "id": "Star",
+      "display_name": "Star",
+      "category": "space",
+      "text": "A star is a huge, shiny ball-shaped body in space. There are billions of stars, and we can see many of them shine at night. The Sun is the star that’s closest to us. Many stars have planets and other bodies that orbit them, and together they form a group that’s called a planetary system. Bodies in space usually can’t shine by themselves, and can only be seen if a star’s light shines on them, just like a flashlight."
+    },
+    {
+      "id": "Sun",
+      "display_name": "Sun",
+      "category": "space",
+      "text": "The Sun is the star that is closest to Earth. The planets in the Solar System orbit it. The Sun is very important to us. It is just the right distance from Earth to make it possible for animals and plants to live here—it keeps Earth warm, but not too hot. Without the Sun, we wouldn’t have light or energy. The Sun is the brightest thing in the sky. Never look directly at it—it can really hurt your eyes!"
+    },
+    {
+      "id": "Uranus",
+      "display_name": "Uranus",
+      "category": "space",
+      "text": "Uranus is the seventh planet in the Solar System, between Saturn and Neptune. It is the first planet that was discovered with a telescope. Until Uranus was discovered, people thought that Saturn was the last planet in the Solar System. Uranus is more than 60 times bigger than Earth, and is the coldest planet. Uranus has 27 moons. Uranus has rings around it, like Saturn, but they’re thin and dark, and that’s why it’s difficult to see them."
+    },
+    {
+      "id": "Supernova",
+      "display_name": "Supernova",
+      "category": "space",
+      "text": "A supernova is an explosion of a giant star. The explosion causes a light so strong that it covers the light of all of the other stars in the exploding star’s galaxy. A supernova happens when the star’s gravity, which is the force that attracts things to its center, becomes so powerful that the star can’t hold itself together anymore. It can also happen when a star’s source of energy runs out. Sometimes, after the star explodes, it turns into a black hole."
+    },
+    {
+      "id": "Moon",
+      "display_name": "Moon",
+      "category": "space",
+      "text": "“Moon” is the name we use to describe a body in space that orbits a planet. Most planets in the Solar System have moons. The Moon we see at night orbits Earth. It is the only place outside of Earth that astronauts actually visited. When we look at the Moon in the sky, sometimes it’s only half full and sometimes it’s even as thin as a banana! That’s because Earth casts its shadow on a part of it."
+    },
+    {
+      "id": "Shooting Star",
+      "display_name": "Shooting Star",
+      "category": "space",
+      "text": "A shooting star is the name that we use for what scientists call a meteor. There are many small rocks, called meteoroids, which travel in space. When these rocks enter Earth’s skies, they become hotter and the heat makes them glow. These glowing rocks look like lights that fall from the sky, and that’s why they’re called shooting stars, even though they’re not really stars. If you want to make a wish when you see one, hurry, they usually disappear very quickly!"
+    },
+    {
+      "id": "Orbit",
+      "display_name": "Orbit",
+      "category": "space",
+      "text": "‫An orbit is when a body in space moves in a circle around a bigger body. For example, the Moon orbits Earth, and all of the planets in the Solar System orbit the Sun. The Moon orbits Earth because Earth’s gravity, which is like a magnet, makes sure the Moon can’t move away from it, and actually forces the Moon to move in a circle around Earth.‬ It takes the moon one month to complete one circle around Earth. That’s called the moon’s orbital period."
+    },
+    {
+      "id": "Dim Sum",
+      "display_name": "Dim Sum",
+      "category": "traditional_food",
+      "text": "Dim sum is traditional food that comes from China. Dim sums are small dishes and dumplings that can be made from rice flour, white flour, or all kinds of leaves, and are stuffed with many different fillings—meat or vegetables. Dim sum dishes are usually steamed or fried and served in bamboo baskets. The phrase “dim sum” means “to touch the heart.” In China, dim sum is usually served with tea as a snack, or as the main dish."
+    },
+    {
+      "id": "Falafel",
+      "display_name": "Falafel",
+      "category": "traditional_food",
+      "text": "Falafel is a small ball made from ground chickpeas or fava beans that are mixed with herbs and spices. It is usually deep-fried in oil. Falafel is Israel’s national food, although it is also eaten in Arab countries and has probably come from Egypt or maybe even India! The best way to eat falafel is to stuff it in pita bread, which is a special flat bread that can hold food like a pocket, along with vegetable salad and tahini."
+    },
+    {
+      "id": "Fajita",
+      "display_name": "Fajita",
+      "category": "traditional_food",
+      "text": "A fajita is a kind of food that belongs to a cooking style called Tex-Mex, which means Mexican food that is made in Texas. Fajitas are made of pieces of meat—beef, chicken, or pork—which are cooked on a grill, together with peppers, onions, and spices. Fajitas are usually served as a filling in flat rolled bread, which is called a tortilla. Salsa sauce, sour cream, chopped tomato, and cheese can be added to it."
+    },
+    {
+      "id": "Miso Soup",
+      "display_name": "Miso Soup",
+      "category": "traditional_food",
+      "text": "Miso soup is a dish that comes from Japan. It is a soup made from a mixture of a basic Japanese soup called dashi, which is made out of fish, fungus, or seaweed, and a paste called miso, which is made out of soybeans, fungus, and salt. In Japan, miso soup is eaten for breakfast, together with white rice. Japanese people drink miso soup directly from deep bowls, and use chopsticks to grab the solid ingredients that are in it."
+    },
+    {
+      "id": "Moussaka",
+      "display_name": "Moussaka",
+      "category": "traditional_food",
+      "text": "Moussaka is a dish that comes from an area in Europe called the Balkans. You can also find moussaka in Turkey and in Arab countries. Each place has its own special way of making moussaka, but the most famous is the Greek moussaka: it is made out of layers of eggplant and ground meat with tomatoes and spices, topped with a special sauce that is made from milk and flour."
+    },
+    {
+      "id": "Pizza",
+      "display_name": "Pizza",
+      "category": "traditional_food",
+      "text": "Pizza is a baked Italian dish that is loved and eaten all over the world. It is usually made from flattened and rounded dough, spread with tomato sauce and topped with cheese. Pizza is made in a pizzeria and is usually cut into slices. You can put on your pizza almost any topping you can think of. It can come with a thick or thin crust, with pepperoni, with all kinds of cheese, and sometimes even without cheese at all!"
+    },
+    {
+      "id": "Ramen",
+      "display_name": "Ramen",
+      "category": "traditional_food",
+      "text": "Ramen is a dish that comes from Japan. It is a meat or fish soup with wheat noodles. It is flavored with soy sauce or with miso paste, which is made out of soybeans, fungus, and salt. Ramen can come with different toppings: vegetables, pork, chicken, fish, seaweed, corn, bamboo shoots, eggs, butter, and more, and can be made in many different ways. Ramen is so popular in Japan that they even have a special museum for it!"
+    },
+    {
+      "id": "Risotto",
+      "display_name": "Risotto",
+      "category": "traditional_food",
+      "text": "Risotto is a dish that comes from Italy and that is made from round white rice. The name “risotto” comes from the Italian word “riso,” which means “rice.” There are many recipes for risotto, but in almost all of them, you should first cook the rice with onions and butter or olive oil, and then add flavored water slowly while stirring. Risotto is a bit more sticky and wet than regular rice. Italians eat risotto before the meal’s main course"
+    },
+    {
+      "id": "Udon Noodles",
+      "display_name": "Udon Noodles",
+      "category": "traditional_food",
+      "text": "Udon noodles come from Japan. They are thick and white, and made from flour, salt, and water. Udon noodles are soft and chewy. There are many ways to eat udon noodles: they can be served hot or cold, cooked in soup, or fried with soy sauce and vegetables. Dishes with udon noodles can have many different toppings, like green onions, ginger, raw egg, and seaweed. In Japan, if you make loud noises while eating udon noodles, you are actually very polite!"
+    },
+    {
+      "id": "Taco",
+      "display_name": "Taco",
+      "category": "traditional_food",
+      "text": "Taco is a dish that comes from Mexico. It is a tortilla—flat bread made from corn or wheat flour—that is folded and filled with different things: meat, chicken, seafood, cheese, and vegetables. Tacos are also very popular in the United Stated and in other places. A taco is eaten like a sandwich, and you can add to it salsa, fresh vegetables, parsley, sour cream, and guacamole, which is a Mexican avocado dip."
+    },
+    {
+      "id": "Sushi",
+      "display_name": "Sushi",
+      "category": "traditional_food",
+      "text": "Sushi is a small dish that comes from Japan. It is made from special rice that is cooked with vinegar and mixed with raw fish or vegetables. There are many different kinds of sushi; some of them are wrapped in seaweed or in fried tofu, which is made from soybeans. Sushi is served and eaten with soy sauce, sliced ginger, and wasabi, which is a very spicy paste. Some kinds of sushi are eaten with chopsticks and others are eaten with the fingers."
+    },
+    {
+      "id": "Spaghetti",
+      "display_name": "Spaghetti",
+      "category": "traditional_food",
+      "text": "Spaghetti is a kind of long and thin pasta. Like all pastas, spaghetti is an Italian dish, although pasta was eaten in China long before it came to Italy. Spaghetti is made from wheat flour and water, and is eaten with all kinds of sauces, like tomato sauce, olive oil, cream, and Bolognese sauce, which is made with ground meat. If you don’t want to make a mess, the best way to eat spaghetti is to wind it around your fork."
+    },
+    {
+      "id": "Pavlova",
+      "display_name": "Pavlova",
+      "category": "traditional_food",
+      "text": "Pavlova is a delicious sweet dessert that comes from Australia and New Zealand. It is named after a famous Russian ballet dancer called Anna Pavlova who visited these countries almost 100 years ago. Pavlova is crispy on the outside and soft on the inside, and it is made from whipped egg whites and sugar. Pavlova is served with whipped cream and fresh fruit—usually berries, but also other kinds."
+    },
+    {
+      "id": "Kebab",
+      "display_name": "Kebab",
+      "category": "traditional_food",
+      "text": "A kebab is a long meatball, made from minced meat—usually lamb, but sometimes beef—and mixed with onion, herbs, and spices. It was originally a Persian and Arabic dish, but today, it is eaten all over the world, in many shapes and sizes. A kebab is usually cooked on a grill with a skewer. It can be served inside pita bread as a sandwich, or on a plate, sometimes on white rice."
+    },
+    {
+      "id": "Fish and Chips",
+      "display_name": "Fish and Chips",
+      "category": "traditional_food",
+      "text": "Fish and chips is a hot dish that comes from England. It is made from fish that are covered with a mixture of flour and water. The fish are deep-fried together with chips, which are sliced potatoes. It’s a simple dish that you can buy in fish-and-chip shops and take with you or order on a plate in a restaurant. Fish and chips is usually served with lemon and mushy peas."
+    },
+    {
+      "id": "Frankfurter",
+      "display_name": "Frankfurter",
+      "category": "traditional_food",
+      "text": "A frankfurter is a sausage that comes from the city of Frankfurt in Germany. A frankfurter is long and thin, and it is made from minced pork and spices. The frankfurter is probably the first hot-dog in history! You don’t cook a frankfurter sausage—instead, you put it in hot water for about ten minutes. Frankfurters are served in a roll with mustard or horseradish, and sometimes also with potato salad."
+    },
+    {
+      "id": "Gazpacho",
+      "display_name": "Gazpacho",
+      "category": "traditional_food",
+      "text": "Gazpacho is a cold soup that comes from Spain. There are many different ways of making gazpacho, but the most popular kind is made with tomatoes, olive oil, garlic, onions, peppers, cucumbers, and vinegar. Gazpacho is very refreshing and it’s best to drink it on a hot summer’s day. There’s a famous Spanish saying: “De gazpacho no hay empacho”—there’s never too much gazpacho. It means that you can never have too much of a good thing!"
+    },
+    {
+      "id": "Hamburger",
+      "display_name": "Hamburger",
+      "category": "traditional_food",
+      "text": "A hamburger is one of the most popular American fast foods, and it is eaten all over the world. A hamburger is actually a sandwich: a large flattened meatball that comes in a round bun, together with lettuce, tomato, onion, and pickles. The hamburger got its name from Hamburg, a large city in Germany. Hamburgers are usually served with French fries and different kinds of sauces: ketchup, mayonnaise, mustard, and barbecue sauce."
+    },
+    {
+      "id": "Hummus",
+      "display_name": "Hummus",
+      "category": "traditional_food",
+      "text": "Hummus is a tasty paste that comes from Arab countries. It is made from chickpeas that are cooked, mashed, and mixed with tahini, lemon juice, garlic, olive oil, and spices. You can eat it with bread, as the main spread, or as an addition to falafel, kebab, or almost any other dish. Another fun way to eat hummus is to wipe it from your plate using pita bread. Fresh hummus is not only tasty, but healthy as well!"
+    },
+    {
+      "id": "Fortune Cookie",
+      "display_name": "Fortune Cookie",
+      "category": "traditional_food",
+      "text": "Fortune cookies are special cookies that hide a special message inside them. When you break the cookie, you find a small piece of paper inside that has words of wisdom written on it. Sometimes, the cookie even tries to guess your future! Fortune cookies are usually served at the end of a meal in Chinese restaurants all over the world. But strangely, you almost never find them in China!"
+    },
+    {
+      "id": "Baguette",
+      "display_name": "Baguette",
+      "category": "traditional_food",
+      "text": "The baguette is a traditional bread that comes from France. A baguette is long and narrow, and that’s how it got its name. “Baguette” is a word in French that means “wand” or “stick.” A baguette is very crispy from the outside, and soft and light on the inside. French people eat it with cheese, butter, jam, or pâté, which is a spread made out of ground meat. Baguettes are also used for making very tasty sandwiches."
+    },
+    {
+      "id": "Borscht",
+      "display_name": "Borscht",
+      "category": "traditional_food",
+      "text": "Borscht is a pinkish sour soup made out of beetroot. It originally comes from Ukraine, but it is also popular in other countries, like Russia and Poland. Borscht can be served hot or cold. Hot dishes usually also include meat and potatoes, and are served with bread. Cold dishes usually include vegetables and are served with sour cream. According to an old Ukrainian tradition, if you stick a wooden spoon inside a pot of borscht and it stands straight, the soup is ready!"
+    },
+    {
+      "id": "Croissant",
+      "display_name": "Croissant",
+      "category": "traditional_food",
+      "text": "A croissant is a tasty pastry that comes from France. It is made out of layers of dough and butter and has a curvy shape, like a crescent. Croissants are usually eaten for breakfast. In France, you can buy a freshly baked croissant and eat it immediately. You can also by frozen croissants and put them in the oven at home. Croissants can be plain or filled with almond paste, chocolate, or fruit. Sometimes, they have a sweet glazing on top."
+    },
+    {
+      "id": "Chapati",
+      "display_name": "Chapati",
+      "category": "traditional_food",
+      "text": "Chapati is a traditional bread that comes from India and looks like a pancake. It is made out of only flour, salt, and water. When people make chapati they don’t bake it in an oven, but cook it, on both sides, on a hot pan, which is called a griddle. You can eat chapati stuffed and rolled like a cone, or tear off pieces of it and use them to grab meat or vegetables."
+    }
+  ],
+  "edges": [
+    {
+      "source": "Cat",
+      "target": "Lion",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cat",
+      "target": "Dog",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cat",
+      "target": "Cheetah",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cheetah",
+      "target": "Cat",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cheetah",
+      "target": "Zebra",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cheetah",
+      "target": "Kenya",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Elephant",
+      "target": "Kenya",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Elephant",
+      "target": "Giraffe",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Elephant",
+      "target": "India",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Frog",
+      "target": "Water",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Frog",
+      "target": "Platypus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Frog",
+      "target": "Iguana",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Koala",
+      "target": "Australia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Koala",
+      "target": "Platypus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Koala",
+      "target": "Forest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Komodo Dragon",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Komodo Dragon",
+      "target": "Frog",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Komodo Dragon",
+      "target": "Iguana",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Whale",
+      "target": "Dolphin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Whale",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Whale",
+      "target": "Elephant",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Wolf",
+      "target": "Dog",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Wolf",
+      "target": "Russia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Wolf",
+      "target": "Forest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Octopus",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Octopus",
+      "target": "Dolphin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Octopus",
+      "target": "Jellyfish",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Platypus",
+      "target": "Australia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Platypus",
+      "target": "Koala",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Platypus",
+      "target": "Newt",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Newt",
+      "target": "Iguana",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Newt",
+      "target": "Porcupinefish",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Newt",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Porcupinefish",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Porcupinefish",
+      "target": "Whale",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Porcupinefish",
+      "target": "Octopus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Scorpion",
+      "target": "Grasshopper",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Scorpion",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Scorpion",
+      "target": "Octopus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Iguana",
+      "target": "Newt",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Iguana",
+      "target": "Dog",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Iguana",
+      "target": "Rainforest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Zebra",
+      "target": "Kenya",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Zebra",
+      "target": "Giraffe",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Zebra",
+      "target": "Zimbabwe",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Lion",
+      "target": "Cheetah",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lion",
+      "target": "Cat",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lion",
+      "target": "India",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grasshopper",
+      "target": "Oasis",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grasshopper",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grasshopper",
+      "target": "Ears",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Jellyfish",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Jellyfish",
+      "target": "Octopus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Jellyfish",
+      "target": "Platypus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Giraffe",
+      "target": "Elephant",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Giraffe",
+      "target": "Cloud",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Giraffe",
+      "target": "Kenya",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Walrus",
+      "target": "Hippopotamus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Walrus",
+      "target": "Whale",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Walrus",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Hippopotamus",
+      "target": "Walrus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hippopotamus",
+      "target": "Elephant",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hippopotamus",
+      "target": "Continent",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Dolphin",
+      "target": "Whale",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dolphin",
+      "target": "Octopus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dolphin",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Bat",
+      "target": "Grasshopper",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bat",
+      "target": "Forest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Bat",
+      "target": "Eye",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Dog",
+      "target": "Cat",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dog",
+      "target": "Wolf",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dog",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Australia",
+      "target": "Continent",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Australia",
+      "target": "Koala",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Australia",
+      "target": "Pavlova",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "China",
+      "target": "Great Wall of China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "China",
+      "target": "Dim Sum",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "China",
+      "target": "Gong",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Egypt",
+      "target": "Pyramids",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Egypt",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Egypt",
+      "target": "Falafel",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "France",
+      "target": "Eiffel Tower",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "France",
+      "target": "Croissant",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "France",
+      "target": "Versailles",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kenya",
+      "target": "Elephant",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kenya",
+      "target": "Lion",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kenya",
+      "target": "Kilimanjaro",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mexico",
+      "target": "Taco",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mexico",
+      "target": "Guitar",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mexico",
+      "target": "Fajita",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Morocco",
+      "target": "Oud",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Morocco",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Morocco",
+      "target": "Kebab",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Nepal",
+      "target": "Everest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Nepal",
+      "target": "India",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nepal",
+      "target": "China",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Norway",
+      "target": "Valley",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Norway",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Norway",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Spain",
+      "target": "Gazpacho",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Spain",
+      "target": "Guitar",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Spain",
+      "target": "Valley",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Greece",
+      "target": "Acropolis of Athens",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Greece",
+      "target": "Bouzouki",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Greece",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Kenya",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Zebra",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Zimbabwe",
+      "target": "Drums",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Italy",
+      "target": "Pompeii",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Italy",
+      "target": "Tower of Pisa",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Italy",
+      "target": "Spaghetti",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Japan",
+      "target": "Sushi",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Japan",
+      "target": "Volcano",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Japan",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Qatar",
+      "target": "Yemen",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Qatar",
+      "target": "Nepal",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Qatar",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Germany",
+      "target": "Frankfurter",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Germany",
+      "target": "Wolf",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Germany",
+      "target": "France",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "India",
+      "target": "Taj Mahal",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "India",
+      "target": "Chapati",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "India",
+      "target": "Elephant",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Yemen",
+      "target": "Qatar",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Yemen",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Yemen",
+      "target": "Oasis",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Brazil",
+      "target": "Rainforest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Brazil",
+      "target": "Iguazu Falls",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Brazil",
+      "target": "Iguana",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Russia",
+      "target": "Hermitage",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Russia",
+      "target": "Borscht",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Russia",
+      "target": "Continent",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "England",
+      "target": "Big Ben",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "England",
+      "target": "Fish and Chips",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "England",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "United States",
+      "target": "Statue of Liberty",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "United States",
+      "target": "Hamburger",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "United States",
+      "target": "Grand Canyon",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Venezuela",
+      "target": "Waterfall",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Venezuela",
+      "target": "Rainforest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Venezuela",
+      "target": "Brazil",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Argentina",
+      "target": "Iguazu Falls",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Argentina",
+      "target": "Brazil",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Argentina",
+      "target": "Rainforest",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Appendix",
+      "target": "Stomach",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Appendix",
+      "target": "Liver",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Appendix",
+      "target": "Cell",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Brain",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Brain",
+      "target": "Nerve",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Brain",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ears",
+      "target": "Eye",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ears",
+      "target": "Brain",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ears",
+      "target": "Piano",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Heart",
+      "target": "Blood",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Heart",
+      "target": "Brain",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Heart",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Liver",
+      "target": "Stomach",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Liver",
+      "target": "Blood",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Liver",
+      "target": "Kidney",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lungs",
+      "target": "Nose",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lungs",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lungs",
+      "target": "Tuba",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Muscles",
+      "target": "Tissue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Muscles",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Muscles",
+      "target": "Bone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nose",
+      "target": "Nerve",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nose",
+      "target": "Eye",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nose",
+      "target": "Flower",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Teeth",
+      "target": "Tongue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Teeth",
+      "target": "Tonsils",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Teeth",
+      "target": "Walrus",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Tongue",
+      "target": "Teeth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tongue",
+      "target": "Pavlova",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Tongue",
+      "target": "Nose",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nail",
+      "target": "Skin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nail",
+      "target": "Hair",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nail",
+      "target": "Teeth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bone",
+      "target": "Skeleton",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bone",
+      "target": "Tissue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bone",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Eye",
+      "target": "Brain",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Eye",
+      "target": "Nose",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Eye",
+      "target": "Rainbow",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Blood",
+      "target": "Cell",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Blood",
+      "target": "Tissue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Blood",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Stomach",
+      "target": "Liver",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Stomach",
+      "target": "Kidney",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Stomach",
+      "target": "Appendix",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cell",
+      "target": "Blood",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cell",
+      "target": "Nerve",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cell",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hair",
+      "target": "Nail",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hair",
+      "target": "Skin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hair",
+      "target": "Teeth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Kidney",
+      "target": "Blood",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Kidney",
+      "target": "Liver",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Kidney",
+      "target": "Appendix",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nerve",
+      "target": "Brain",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nerve",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Nerve",
+      "target": "Tongue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skeleton",
+      "target": "Bone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skeleton",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skeleton",
+      "target": "Brain",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skin",
+      "target": "Hair",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skin",
+      "target": "Tissue",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Skin",
+      "target": "Sun",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Tissue",
+      "target": "Cell",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tissue",
+      "target": "Bone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tissue",
+      "target": "Skin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tonsils",
+      "target": "Teeth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tonsils",
+      "target": "Risotto",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Tonsils",
+      "target": "Ears",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Womb",
+      "target": "Blood",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Womb",
+      "target": "Heart",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Womb",
+      "target": "Muscles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Versailles",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Versailles",
+      "target": "Hermitage",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Versailles",
+      "target": "Statue of Liberty",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tower of Pisa",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Tower of Pisa",
+      "target": "Eiffel Tower",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tower of Pisa",
+      "target": "Risotto",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Stonehenge",
+      "target": "England",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Stonehenge",
+      "target": "Easter Island",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Stonehenge",
+      "target": "Moon",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mount Rushmore",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mount Rushmore",
+      "target": "Empire State Building",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mount Rushmore",
+      "target": "Grand Canyon",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Western Wall",
+      "target": "Taj Mahal",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Western Wall",
+      "target": "Great Wall of China",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Western Wall",
+      "target": "Stonehenge",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Acropolis of Athens",
+      "target": "Greece",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Acropolis of Athens",
+      "target": "Taj Mahal",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Acropolis of Athens",
+      "target": "Moussaka",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pyramids",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pyramids",
+      "target": "Machu Picchu",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pyramids",
+      "target": "Petra",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Petra",
+      "target": "Yemen",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Petra",
+      "target": "Acropolis of Athens",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Petra",
+      "target": "Desert",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pompeii",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pompeii",
+      "target": "Volcano",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pompeii",
+      "target": "Lava",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Niagara Falls",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Niagara Falls",
+      "target": "Waterfall",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Niagara Falls",
+      "target": "Iguazu Falls",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hermitage",
+      "target": "Russia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Hermitage",
+      "target": "Versailles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hermitage",
+      "target": "Acropolis of Athens",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Eiffel Tower",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Eiffel Tower",
+      "target": "Versailles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Eiffel Tower",
+      "target": "Tower of Pisa",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Machu Picchu",
+      "target": "Kilimanjaro",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Machu Picchu",
+      "target": "Pyramids",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Machu Picchu",
+      "target": "Stonehenge",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Loch Ness",
+      "target": "England",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Loch Ness",
+      "target": "Big Ben",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Loch Ness",
+      "target": "Fish and Chips",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kilimanjaro",
+      "target": "Everest",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Kilimanjaro",
+      "target": "Kenya",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kilimanjaro",
+      "target": "Volcano",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Taj Mahal",
+      "target": "India",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Taj Mahal",
+      "target": "Western Wall",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Taj Mahal",
+      "target": "Stonehenge",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Great Wall of China",
+      "target": "China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Great Wall of China",
+      "target": "Western Wall",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Great Wall of China",
+      "target": "Solar System",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Empire State Building",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Empire State Building",
+      "target": "Statue of Liberty",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Empire State Building",
+      "target": "Eiffel Tower",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Big Ben",
+      "target": "England",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Big Ben",
+      "target": "Tower of Pisa",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Big Ben",
+      "target": "Fish and Chips",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Everest",
+      "target": "Nepal",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Everest",
+      "target": "Kilimanjaro",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Everest",
+      "target": "Wind",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Iguazu Falls",
+      "target": "Argentina",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Iguazu Falls",
+      "target": "Brazil",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Iguazu Falls",
+      "target": "Waterfall",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Easter Island",
+      "target": "Island",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Easter Island",
+      "target": "Stonehenge",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Easter Island",
+      "target": "Ocean",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grand Canyon",
+      "target": "Valley",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grand Canyon",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Grand Canyon",
+      "target": "Mount Rushmore",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Statue of Liberty",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Statue of Liberty",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Statue of Liberty",
+      "target": "Mount Rushmore",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Recorder",
+      "target": "Flute",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Recorder",
+      "target": "Ukulele",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Recorder",
+      "target": "Xylophone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pipe Organ",
+      "target": "Piano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pipe Organ",
+      "target": "Ears",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pipe Organ",
+      "target": "Clarinet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ukulele",
+      "target": "Guitar",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ukulele",
+      "target": "Banjo",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ukulele",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Viola",
+      "target": "Violin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Viola",
+      "target": "Cello",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Viola",
+      "target": "Harp",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Didgeridoo",
+      "target": "Australia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Didgeridoo",
+      "target": "Drums",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Didgeridoo",
+      "target": "Flute",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Drums",
+      "target": "Gong",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Drums",
+      "target": "Xylophone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Drums",
+      "target": "Brazil",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Gong",
+      "target": "Drums",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Gong",
+      "target": "Xylophone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Gong",
+      "target": "China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Oud",
+      "target": "Lute",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oud",
+      "target": "Guitar",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oud",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Guitar",
+      "target": "Spain",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Guitar",
+      "target": "Banjo",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Guitar",
+      "target": "Lute",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Accordion",
+      "target": "Piano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Accordion",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Accordion",
+      "target": "Pipe Organ",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Banjo",
+      "target": "Guitar",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Banjo",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Banjo",
+      "target": "Trumpet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bouzouki",
+      "target": "Greece",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Bouzouki",
+      "target": "Oud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Bouzouki",
+      "target": "Banjo",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flute",
+      "target": "Recorder",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flute",
+      "target": "Oboe",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flute",
+      "target": "Clarinet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lute",
+      "target": "Oud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lute",
+      "target": "Guitar",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lute",
+      "target": "Harp",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tuba",
+      "target": "Trumpet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tuba",
+      "target": "Trombone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tuba",
+      "target": "Lungs",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Violin",
+      "target": "Viola",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Violin",
+      "target": "Cello",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Violin",
+      "target": "Piano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Harp",
+      "target": "Piano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Harp",
+      "target": "Xylophone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Harp",
+      "target": "Violin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Piano",
+      "target": "Accordion",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Piano",
+      "target": "Xylophone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Piano",
+      "target": "Pipe Organ",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cello",
+      "target": "Violin",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cello",
+      "target": "Tuba",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cello",
+      "target": "Trombone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Clarinet",
+      "target": "Oboe",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Clarinet",
+      "target": "Flute",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Clarinet",
+      "target": "Trumpet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oboe",
+      "target": "Clarinet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oboe",
+      "target": "Tuba",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oboe",
+      "target": "Trumpet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trombone",
+      "target": "Trumpet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trombone",
+      "target": "Didgeridoo",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trombone",
+      "target": "Tuba",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trumpet",
+      "target": "Trombone",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trumpet",
+      "target": "Tuba",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Trumpet",
+      "target": "Clarinet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Xylophone",
+      "target": "Drums",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Xylophone",
+      "target": "Gong",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Xylophone",
+      "target": "Ukulele",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hurricane",
+      "target": "Wind",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hurricane",
+      "target": "Tornado",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hurricane",
+      "target": "Thunder",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Continent",
+      "target": "Island",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Continent",
+      "target": "Earth",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Continent",
+      "target": "Ocean",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Desert",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Desert",
+      "target": "Oasis",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Desert",
+      "target": "Scorpion",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Thunder",
+      "target": "Lightning",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Thunder",
+      "target": "Cloud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Thunder",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oasis",
+      "target": "Desert",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oasis",
+      "target": "Flower",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Oasis",
+      "target": "Water",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ocean",
+      "target": "Island",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ocean",
+      "target": "Dolphin",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Ocean",
+      "target": "Octopus",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Rainbow",
+      "target": "Eye",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Rainbow",
+      "target": "Lightning",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Rainbow",
+      "target": "Cloud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cloud",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Cloud",
+      "target": "Venus",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Cloud",
+      "target": "Lightning",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Forest",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Brazil",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Argentina",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Valley",
+      "target": "Nepal",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Valley",
+      "target": "Waterfall",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Valley",
+      "target": "Kilimanjaro",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Forest",
+      "target": "Rainforest",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Forest",
+      "target": "Brazil",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Forest",
+      "target": "Atmosphere",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fire",
+      "target": "Sun",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Fire",
+      "target": "Water",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fire",
+      "target": "Volcano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lava",
+      "target": "Pompeii",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Lava",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Lava",
+      "target": "Volcano",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tornado",
+      "target": "Wind",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tornado",
+      "target": "Thunder",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Tornado",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Waterfall",
+      "target": "Iguazu Falls",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Waterfall",
+      "target": "Niagara Falls",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Waterfall",
+      "target": "Venezuela",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Island",
+      "target": "Continent",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Island",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Island",
+      "target": "Ocean",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flower",
+      "target": "Forest",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flower",
+      "target": "Rainforest",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Flower",
+      "target": "Nose",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Lightning",
+      "target": "Thunder",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lightning",
+      "target": "Cloud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Lightning",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Geyser",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Geyser",
+      "target": "Lava",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Geyser",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Atmosphere",
+      "target": "Ocean",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Atmosphere",
+      "target": "Planet",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Atmosphere",
+      "target": "Wind",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dune",
+      "target": "Desert",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dune",
+      "target": "Valley",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dune",
+      "target": "Wind",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Volcano",
+      "target": "Pompeii",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Volcano",
+      "target": "Lava",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Volcano",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Water",
+      "target": "Ocean",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Water",
+      "target": "Waterfall",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Water",
+      "target": "Cloud",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Wind",
+      "target": "Hurricane",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Wind",
+      "target": "Tornado",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Wind",
+      "target": "Dune",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Planet",
+      "target": "Orbit",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Planet",
+      "target": "Atmosphere",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Planet",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Solar System",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Solar System",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Solar System",
+      "target": "Galaxy",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Earth",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Earth",
+      "target": "Atmosphere",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Earth",
+      "target": "Moon",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Neptune",
+      "target": "Pluto",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Neptune",
+      "target": "Wind",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Neptune",
+      "target": "Uranus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Venus",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Venus",
+      "target": "Mercury",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Venus",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Saturn",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Saturn",
+      "target": "Jupiter",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Saturn",
+      "target": "Moon",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Asteroids",
+      "target": "Meteoroid",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Asteroids",
+      "target": "Milky Way",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Asteroids",
+      "target": "Pluto",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Black Hole",
+      "target": "Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Black Hole",
+      "target": "Galaxy",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Black Hole",
+      "target": "Supernova",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Comet",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Comet",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Comet",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Meteoroid",
+      "target": "Shooting Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Meteoroid",
+      "target": "Asteroids",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Meteoroid",
+      "target": "Comet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Galaxy",
+      "target": "Milky Way",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Galaxy",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Galaxy",
+      "target": "Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Jupiter",
+      "target": "Hurricane",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Mercury",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mercury",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mercury",
+      "target": "Venus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mars",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mars",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Mars",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Milky Way",
+      "target": "Galaxy",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Milky Way",
+      "target": "Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Milky Way",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pluto",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pluto",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pluto",
+      "target": "Asteroids",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Satellite",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Satellite",
+      "target": "Orbit",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Satellite",
+      "target": "Moon",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Star",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Star",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Star",
+      "target": "Black Hole",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Sun",
+      "target": "Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Sun",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Sun",
+      "target": "Galaxy",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Uranus",
+      "target": "Planet",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Uranus",
+      "target": "Solar System",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Uranus",
+      "target": "Saturn",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Supernova",
+      "target": "Star",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Supernova",
+      "target": "Black Hole",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Supernova",
+      "target": "Galaxy",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Moon",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Moon",
+      "target": "Satellite",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Moon",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Shooting Star",
+      "target": "Meteoroid",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Shooting Star",
+      "target": "Earth",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Shooting Star",
+      "target": "Atmosphere",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Orbit",
+      "target": "Moon",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Orbit",
+      "target": "Satellite",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Orbit",
+      "target": "Sun",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dim Sum",
+      "target": "China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Dim Sum",
+      "target": "Fortune Cookie",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Dim Sum",
+      "target": "Pavlova",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Falafel",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Falafel",
+      "target": "Moussaka",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Falafel",
+      "target": "Oud",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Fajita",
+      "target": "Mexico",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Fajita",
+      "target": "Taco",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fajita",
+      "target": "Kebab",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Miso Soup",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Miso Soup",
+      "target": "Ramen",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Miso Soup",
+      "target": "Sushi",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Moussaka",
+      "target": "Morocco",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Moussaka",
+      "target": "Pizza",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Moussaka",
+      "target": "Hummus",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pizza",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pizza",
+      "target": "Spaghetti",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Pizza",
+      "target": "Hamburger",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ramen",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Ramen",
+      "target": "Miso Soup",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Ramen",
+      "target": "Gazpacho",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Risotto",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Risotto",
+      "target": "Pizza",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Risotto",
+      "target": "Tower of Pisa",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Udon Noodles",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Udon Noodles",
+      "target": "Sushi",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Udon Noodles",
+      "target": "Spaghetti",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Taco",
+      "target": "Mexico",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Taco",
+      "target": "Fajita",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Taco",
+      "target": "Chapati",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Sushi",
+      "target": "Japan",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Sushi",
+      "target": "Miso Soup",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Sushi",
+      "target": "Udon Noodles",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Spaghetti",
+      "target": "Italy",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Spaghetti",
+      "target": "Risotto",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Spaghetti",
+      "target": "China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pavlova",
+      "target": "Australia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pavlova",
+      "target": "Didgeridoo",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Pavlova",
+      "target": "Russia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kebab",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Kebab",
+      "target": "Falafel",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Kebab",
+      "target": "Frankfurter",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fish and Chips",
+      "target": "England",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Fish and Chips",
+      "target": "Sushi",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fish and Chips",
+      "target": "Falafel",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Frankfurter",
+      "target": "Germany",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Frankfurter",
+      "target": "Hamburger",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Frankfurter",
+      "target": "Kebab",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Gazpacho",
+      "target": "Spain",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Gazpacho",
+      "target": "Borscht",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Gazpacho",
+      "target": "Miso Soup",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hamburger",
+      "target": "United States",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Hamburger",
+      "target": "Pizza",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hamburger",
+      "target": "Frankfurter",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hummus",
+      "target": "Egypt",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Hummus",
+      "target": "Falafel",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Hummus",
+      "target": "Croissant",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fortune Cookie",
+      "target": "China",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Fortune Cookie",
+      "target": "Risotto",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Fortune Cookie",
+      "target": "Pavlova",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Baguette",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Baguette",
+      "target": "Croissant",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Baguette",
+      "target": "Chapati",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Borscht",
+      "target": "Russia",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Borscht",
+      "target": "Hermitage",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Borscht",
+      "target": "Miso Soup",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Croissant",
+      "target": "France",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Croissant",
+      "target": "Eiffel Tower",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Croissant",
+      "target": "Versailles",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Chapati",
+      "target": "Dim Sum",
+      "edge_type": "WITHIN"
+    },
+    {
+      "source": "Chapati",
+      "target": "India",
+      "edge_type": "RELATED"
+    },
+    {
+      "source": "Chapati",
+      "target": "Baguette",
+      "edge_type": "WITHIN"
+    }
+  ]
+}
